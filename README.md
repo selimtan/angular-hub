@@ -1,4 +1,5 @@
-# angular-reading
+# Angular Hub
+Angular hub is a collection of article, useful links, tutorial and video about Angular. Enjoy with Angular.
 
 ## Angular Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element) 
@@ -46,5 +47,5 @@ A tutorial about how to create a web browser extension for Firefox, Chrome, Oper
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
 
 ## Youtube
-* ![Video](./Video)[AngularCamp 2016](https://www.youtube.com/playlist?list=PLB17qI-lepyhSdXvjSupwSMAMmOxpciUl)
+* ![Video](./Video.png)  [AngularCamp 2016](https://www.youtube.com/playlist?list=PLB17qI-lepyhSdXvjSupwSMAMmOxpciUl)
 On this YouTube playlist are the talks from AngularCamp 2016, e.g. "Angular 2 Server Side Rendering" by Wassim Chegham, "Progressive Web Apps with Angular 2" by Manfred Steyer or "Augury" by Vanessa Yuen.
