@@ -1,7 +1,7 @@
 # angular-reading
 
 ## Angular Directives
-* [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
+* [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element) 
 
 ## Templates
 * [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -9,6 +9,7 @@ A nice summery for beginners: Carlos made a collection of directives and the dif
 
 ## Class/Styling
 * [Angular 2+ Classes with NgClass and NgStyle - Tutorial](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
+![Tutorial](./Tutorial.png)
 A tutorial about creating dynamic styles in multiple ways by using NgClass and NgStyle.
 
 ## RxJs
