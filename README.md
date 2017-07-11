@@ -20,6 +20,10 @@ Kwinten describes how he created a custom decorator that retries to call the bac
 Juri explains in detail the difference between ES6 Modules and Angular Modules.
 * ![Article](./Article.png)  [Planning An Angular Application](http://developer.telerik.com/topics/web-development/planning-an-angular-application/)
 Really useful list of things to consider when planning an Angular application –from tooling all the way through to deployment and performance strategies. If you like this outline, you'll find Todd's complete work in this [whitepaper](http://www.telerik.com/campaigns/kendo-ui/planning-an-angular-application).
+* [How does Angular teach you to be a better a Software Engineer](https://blog.ngconsultant.io/learn-angular-software-enginner-patterns-architecture-4836ef304b40)
+Opinionated framework like Angular (other frameworks too for that matter, remember React is a library) can teach you many of the industry’s best practices and help you to adopt mindset necessary to successfully implement nontrivial web applications.
+* ![Tutorial](./tutorial.png)  [Wrap any jQuery plugin with Angular component — case study](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
+Michal explains how to wrap the slick-carousel jQuery plugin into an Angular component.
 
 ## Angular Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -36,19 +40,25 @@ A nice summery for beginners: Carlos made a collection of directives and the dif
 A tutorial about creating dynamic styles in multiple ways by using NgClass and NgStyle.
 * ![Article](./Article.png)  [Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.gffhr5r2v)
 Gerard shows different options to style Angular components and directives.
+* ![Article](./Article.png)  [Create an hierarchical style architecture](https://medium.com/@kmathy/angular-create-an-hierarchical-style-architecture-97aa7489cc39)
+A short article about creating a better SCSS architecture by using the /deep/ selector.
 
 ## Forms
 * ![Article](./Article.png)  [Real World Angular — Form Formation](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
 This is the third part of an article series showing you how to accept, validate and save data with reactive forms.
 * ![Article](./Article.png)  [Angular Forms in Depth](https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.dhn4wxipe)
 This is a long, in-depth article about forms, covering the FormsModule and the ReactiveFormsModule.
+* ![Tutorial](./tutorial.png)  [Handling Multiple Checkboxes in Angular Forms](https://netbasal.com/handling-multiple-checkboxes-in-angular-forms-57eb8e846d21)
+A quick tutorial about how to render a list with multiple checkboxes by using reactive forms.
 
 ## Pipes
 * ![Tutorial](./tutorial.png)  [Sorting with Pipes in Angular](https://blog.xmltravelgate.com/sorting-with-pipes-in-angular-2-7370b0839468#.bpnax0mw6)
 A quick tutorial showing how to create a custom pipe for sorting tables.
 * ![Article](./Article.png)  [Three Things You Didn't Know About the AsyncPipe](https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html)
 Christoph shares three special AsyncPipe features, e.g. how to use the AsyncPipe to subscribe to observables that emit multiple values.
-
+## Services
+* ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
+Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
 * ![Video](./Video.png)  [Avoid Zombie Subscribers in Angular](https://www.youtube.com/watch?v=oV8b-rlyMdI)
@@ -73,6 +83,10 @@ Learn how to extend the official Material Design SnackBar to create a custom Sna
 Todd compares in detail the various ways to pass information into a component in Angular 1.x and Angular 2+.
 * ![Article](./Article.png)  [Understanding Component Architecture: Refactoring an Angular App](https://www.sitepoint.com/understanding-component-architecture-angular/)
 In this article you'll learn how to break a single component into a structured tree of smaller components.
+* ![Article](./Article.png)  [Angular Component Reuse Strategy](https://medium.com/@juliapassynkova/angular-2-component-reuse-strategy-9f3ddfab23f5)
+Julia shows how the Angular router reuses components and how you can modify the default behavior.
+* ![Article](./Article.png)  [Component Interaction in Angular](https://kfarst.github.io/angular/2017/03/29/component-interaction-in-angular/)
+Kevin summarizes the different possibilities components communicate with another.
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
@@ -153,7 +167,7 @@ A guide about using deepstream.io and Angular to build a real-time chat applicat
 * ![Article](./Article.png)  [What is Unidirectional Data Flow ? Learn How the Angular Development Mode Works, why it's important to use it and how to Troubleshoot it](http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
 This is a longer, but truly interesting article explaining what exactly happens under the hood when using Angular in development mode.
 
-### Library
+## Library
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
 
