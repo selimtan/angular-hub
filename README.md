@@ -10,7 +10,16 @@ Ogundipe shows two ways to create an app to upload files: one by using ng2-file-
 And here's another short article that explains the differences between the ngOnInit lifecycle hook and the constructor method.
 * ![Tutorial](./tutorial.png)  [Visualizing Data with Angular and D3](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.ni6yyndy1)
 A cool guide showing you how to create an interactive SVG visualization and bind user interactions with Angular and D3.
-
+* ![Article](./Article.png)  [Building maintainable Angular applications](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1#.g5wu5qt00)
+* ![Tutorial](./tutorial.png)  [How to Track Analytics with Redux and Google Tag Manager](http://blog.rangle.io/how-to-track-analytics-with-redux-and-google-tag-manager/)
+Johanna shows how to use ReduxBeacon to integrate the Google Tag Manager in your application by using Redux or ngrx/store.
+* ![Article](./Article.png)  [Using decorators and observables to implement retry](http://blog.kwintenp.com/decorators-and-observables-to-implement-retry-logic/)
+Kwinten describes how he created a custom decorator that retries to call the backend, if a call failed.
+* ![Article](./Article.png)  [5 Features To Watch Out For in Angular v4](https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4)
+* ![Article](./Article.png)  [Angular Modules vs ES6 Modules](https://juristr.com/blog/2017/03/angular-modules-vs-es6-modules/)
+Juri explains in detail the difference between ES6 Modules and Angular Modules.
+* ![Article](./Article.png)  [Planning An Angular Application](http://developer.telerik.com/topics/web-development/planning-an-angular-application/)
+Really useful list of things to consider when planning an Angular application –from tooling all the way through to deployment and performance strategies. If you like this outline, you'll find Todd's complete work in this [whitepaper](http://www.telerik.com/campaigns/kendo-ui/planning-an-angular-application).
 
 ## Angular Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -62,6 +71,8 @@ The first part of a tutorial about how to create a todo app with ngrx/store, ngr
 Learn how to extend the official Material Design SnackBar to create a custom SnackBar with different styles and behavior.
 * ![Article](./Article.png)  [Component Property Binding with @Input() in Angular 2](http://developer.telerik.com/topics/web-development/component-property-binding-input-angular-2/)
 Todd compares in detail the various ways to pass information into a component in Angular 1.x and Angular 2+.
+* ![Article](./Article.png)  [Understanding Component Architecture: Refactoring an Angular App](https://www.sitepoint.com/understanding-component-architecture-angular/)
+In this article you'll learn how to break a single component into a structured tree of smaller components.
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
@@ -70,6 +81,13 @@ Juri compares the concepts behind transclusion in Angular 1.x with the content p
 ## Event
 * ![Article](./Article.png)  [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c#.lidun43mv)
 Netanel takes a look at component communication and event emitters in an Angular application that uses RxJS.
+
+## DOM Manipulation
+* ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
+The new Angular version runs on different platforms — in a browser, on a mobile platform or inside a web worker. So a level of abstraction is required to stand between platform specific API and the framework interfaces.
+## Animation
+* ![Article](./Article.png)  [From ngAnimate to Angular 2 animate](http://developer.telerik.com/topics/web-development/nganimate-angular-2-animate/)
+Lukas compares the ngAnimate module from Angular 1.x with the way animations work in Angular 2+. If you like these kind of articles, you will all like "From ng-switch to ngSwitch" by Todd Motto.
 
 ## Peformance
 * ![Article](./Article.png)  [Making your Angular apps fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
@@ -87,6 +105,8 @@ A quick and interesting tip on how to track the size of bundled Angular applicat
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
 * ![Article](./Article.png)  [How to host your Angular 2 application in AWS with S3](https://www.johnlouros.com/blog/host-your-angular-app-in-aws-s3)
 @Amazon, @Production
+* [Angular Continuous Integration](http://slides.com/elecash/angular-continuous-integration#/)
+Interesting slides for Raúl's talk at ngVikings 2017 about continuous integration with Angular and Travis CI.
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
@@ -109,6 +129,8 @@ A useful website that collects Angular components and libraries with different c
 * ![Article](./Article.png)  [Using Yarn with Angular CLI](https://medium.com/@beeman/using-yarn-with-angular-cli-db2e318e43c5)
 * ![Article](./Article.png)  [Angular-cli and Global SASS Variables](https://netbasal.com/angular-cli-and-global-sass-variables-a1b92d8ca9b7#.azxvbd1bw)
 A quick tip about how to use global SASS variables in your Angular component.
+* ![Article](./Article.png)  [Powerful Analytics tool for Angular applications: Angulartics2](https://medium.com/altar-io/powerful-analytics-tool-for-angular-applications-angulartics2-c509e17db2a3#.v07zp6roz)
+Most analytics providers do not automatically track the browser’s navigation history, making it difficult to track Single Page Applications (SPAs) like Angular applications.
 
 ## Backend
 * ![Tutorial](./tutorial.png)  [Serverless REST API with Angular, Persistence and Security](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/)
@@ -123,12 +145,17 @@ And here's another short tip showing how to use Thorsten's small library ngx-ele
 A tutorial about how to create a web browser extension for Firefox, Chrome, Opera or Edge by using the WebExtensions API and Angular.
 * [Build a Music Player with Angular 2+ & Electron I : Setup & Basics Concepts](https://scotch.io/tutorials/build-a-music-player-with-angular-2-electron-i-setup-basics-concepts) - This is a three part tutorial by Chris showing you how to create a music player desktop application for Mac, Windows and Linux with Electron and Angular. There's also a [part II](https://scotch.io/tutorials/build-a-music-player-with-angular-electron-ii-making-the-ui) and [part III](https://scotch.io/tutorials/build-a-music-player-with-angular-electron-iii-bringing-it-all-together) of this series.
 * ![Article](./Article.png)  [Angular 2+ Components & Libraries](https://devarchy.com/angular)
+A useful website that collects Angular components and libraries with different categories, e.g. UI components, code style, performance or dev tools.
 * ![Tutorial](./tutorial.png)  [Bootstrapping in the Browser with Angular](http://developer.telerik.com/topics/web-development/bootstrapping-browser-angular-2/)
 Todd explores the differences between the Angular 1.x and Angular 2+ concepts to bootstrap applications.
 * ![Tutorial](./tutorial.png)  [Building a Real-time Chat with Angular 2 and deepstream](https://www.codementor.io/christiannwamba/building-real-time-chat-angular-deepstream-4miwit44u)
 A guide about using deepstream.io and Angular to build a real-time chat application.
 * ![Article](./Article.png)  [What is Unidirectional Data Flow ? Learn How the Angular Development Mode Works, why it's important to use it and how to Troubleshoot it](http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
 This is a longer, but truly interesting article explaining what exactly happens under the hood when using Angular in development mode.
+
+### Library
+* [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
+If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
 
 ## Github
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
@@ -137,3 +164,5 @@ This is a longer, but truly interesting article explaining what exactly happens 
 * ![Video](./Video.png)  [AngularCamp 2016](https://www.youtube.com/playlist?list=PLB17qI-lepyhSdXvjSupwSMAMmOxpciUl)
 On this YouTube playlist are the talks from AngularCamp 2016, e.g. "Angular 2 Server Side Rendering" by Wassim Chegham, "Progressive Web Apps with Angular 2" by Manfred Steyer or "Augury" by Vanessa Yuen.
 * ![Video](./Video.png)  [ngVikings 2017 Recordings](https://opbeat.com/community/events/ngvikings-2017/)
+* ![Video](./Video.png)  [NG-NL 2017](https://www.youtube.com/playlist?list=PLQi8NNYCH8TDFnOhjrIsjZGMD6Ks8SQid)
+This is a playlist with talks from NG-NL 2017, which happened in March. Make sure to watch them all :)
