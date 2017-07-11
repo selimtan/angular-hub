@@ -7,6 +7,10 @@
 * [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
 A nice summery for beginners: Carlos made a collection of directives and the different ways to make property and data bindings in templates.
 
+## Class/Styling
+* [Angular 2+ Classes with NgClass and NgStyle - Tutorial](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
+A tutorial about creating dynamic styles in multiple ways by using NgClass and NgStyle.
+
 ## RxJs
 * [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
 * [Avoid Zombie Subscribers in Angular - Youtube](https://www.youtube.com/watch?v=oV8b-rlyMdI)
