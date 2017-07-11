@@ -1,3 +1,24 @@
+### 24 March, 2017
+* [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
+If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
+* ![Article](./Article.png)  [Building maintainable Angular applications](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1#.g5wu5qt00)
+Kwinten describes how he created a custom decorator that retries to call the backend, if a call failed.
+* ![Article](./Article.png)  [Using decorators and observables to implement retry](http://blog.kwintenp.com/decorators-and-observables-to-implement-retry-logic/)
+Kwinten describes how he created a custom decorator that retries to call the backend, if a call failed.
+* ![Article](./Article.png)  [Understanding Component Architecture: Refactoring an Angular App](https://www.sitepoint.com/understanding-component-architecture-angular/)
+In this article you'll learn how to break a single component into a structured tree of smaller components.
+* ![Tutorial](./tutorial.png)  [How to Track Analytics with Redux and Google Tag Manager](http://blog.rangle.io/how-to-track-analytics-with-redux-and-google-tag-manager/)
+Johanna shows how to use ReduxBeacon to integrate the Google Tag Manager in your application by using Redux or ngrx/store.
+* ![Article](./Article.png)  [5 Features To Watch Out For in Angular v4](https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4)
+* ![Article](./Article.png)  [From ngAnimate to Angular 2 animate](http://developer.telerik.com/topics/web-development/nganimate-angular-2-animate/)
+Lukas compares the ngAnimate module from Angular 1.x with the way animations work in Angular 2+. If you like these kind of articles, you will all like "From ng-switch to ngSwitch" by Todd Motto.
+* ![Article](./Article.png)  [Angular Modules vs ES6 Modules](https://juristr.com/blog/2017/03/angular-modules-vs-es6-modules/)
+Juri explains in detail the difference between ES6 Modules and Angular Modules.
+* ![Article](./Article.png)  [Planning An Angular Application](http://developer.telerik.com/topics/web-development/planning-an-angular-application/)
+Really useful list of things to consider when planning an Angular application –from tooling all the way through to deployment and performance strategies. If you like this outline, you'll find Todd's complete work in this [whitepaper](http://www.telerik.com/campaigns/kendo-ui/planning-an-angular-application).
+* ![Video](./Video.png)  [NG-NL 2017](https://www.youtube.com/playlist?list=PLQi8NNYCH8TDFnOhjrIsjZGMD6Ks8SQid)
+This is a playlist with talks from NG-NL 2017, which happened in March. Make sure to watch them all :)
+
 ### 09 March, 2017
 * ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
 The new Angular version runs on different platforms — in a browser, on a mobile platform or inside a web worker. So a level of abstraction is required to stand between platform specific API and the framework interfaces.
