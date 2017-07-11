@@ -1,7 +1,7 @@
 # angular-reading
 
 ## Angular Directives
-* [Angular ngFor, <ng-template> and the compiler ![tutorial logo](./tutorial.png)](https://toddmotto.com/angular-ngfor-template-element)
+* [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
 
 ## Templates
 * [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
