@@ -1,5 +1,5 @@
 # Angular Hub
-Angular hub is a collection of article, useful links, tutorial and video about Angular. Enjoy with Angular.
+Angular hub is a collection of article, useful links, tutorial and video about Angular. Enjoy with Angular. See also [weekly](./weekly.md) categorized content.
 
 ## General
 * ![Tutorial](./tutorial.png)  [A Step-By-Step Guide for Building Master-Detail User Interfaces with Angular](http://developer.telerik.com/content-types/tutorials/step-step-guide-building-master-detail-user-interfaces-angular/)
@@ -13,6 +13,7 @@ A cool guide showing you how to create an interactive SVG visualization and bind
 
 ## Angular Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
+In this extensive article Todd explores the built-in ngFor directive and demonstrates how Angular expands the directive to a <template> element and composes the view.
 * ![Article](./Article.png)  [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
 Cory shows how to use a new, special ngIf and ngElse syntax to bind async data to an Angular template.
 
