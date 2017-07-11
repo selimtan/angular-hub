@@ -9,7 +9,6 @@ A nice summery for beginners: Carlos made a collection of directives and the dif
 
 ## Class/Styling
 * [Angular 2+ Classes with NgClass and NgStyle - Tutorial](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
-![Tutorial](./Tutorial.png)
 A tutorial about creating dynamic styles in multiple ways by using NgClass and NgStyle.
 
 ## RxJs
