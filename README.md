@@ -2,7 +2,9 @@
 Angular hub is a collection of article, useful links, tutorial and video about Angular. Enjoy with Angular.
 
 ## Angular Directives
-* ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element) 
+* ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
+* ![Article](./Article.png)  [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
+Cory shows how to use a new, special ngIf and ngElse syntax to bind async data to an Angular template.
 
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -17,10 +19,14 @@ Gerard shows different options to style Angular components and directives.
 ## Forms
 * ![Article](./Article.png)  [Real World Angular — Form Formation](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
 This is the third part of an article series showing you how to accept, validate and save data with reactive forms.
+* ![Article](./Article.png)  [Angular Forms in Depth](https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.dhn4wxipe)
+This is a long, in-depth article about forms, covering the FormsModule and the ReactiveFormsModule.
 
 ## Pipes
 * ![Tutorial](./tutorial.png)  [Sorting with Pipes in Angular](https://blog.xmltravelgate.com/sorting-with-pipes-in-angular-2-7370b0839468#.bpnax0mw6)
 A quick tutorial showing how to create a custom pipe for sorting tables.
+* ![Article](./Article.png)  [Three Things You Didn't Know About the AsyncPipe](https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html)
+Christoph shares three special AsyncPipe features, e.g. how to use the AsyncPipe to subscribe to observables that emit multiple values.
 
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
@@ -28,6 +34,8 @@ A quick tutorial showing how to create a custom pipe for sorting tables.
 A quick 6-minutes tip by Sean about avoiding zombie listeners with the use of a @once decorator.
 * ![Article](./Article.png)  [Making use of RxJS in Angular](https://auth0.com/blog/making-use-of-rxjs-angular/)
 Wojciech shows what Functional Reactive Programming (FRP) is and how you can use FRP in your Angular application with RxJS.
+* ![Tutorial](./tutorial.png)  [Angular 2 — TwitchTV : Dynamic Search Result using Angular’s HTTP Service + RxJS Observables](https://medium.com/@a_reza88/angular-2-twitchtv-dynamic-search-result-using-angulars-http-service-rxjs-observables-42b9c55a17b8#.ayb6jy9ga)
+In this tutorial you'll learn how to use Angular's HTTP service to create a Twitch Search application.
 
 ## State Management
 * ![Article](./Article.png)  [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
@@ -36,6 +44,20 @@ A long and super interesting article about the state management in general, the 
 Julien shows how to migrate your application from using Redux to using ngrx/store.
 * ![Tutorial](./tutorial.png)  [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/@NetanelBasal/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-1-a878addba622#.b5smn55cj)
 The first part of a tutorial about how to create a todo app with ngrx/store, ngrx/effects.
+
+## Component
+* ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
+Learn how to extend the official Material Design SnackBar to create a custom SnackBar with different styles and behavior.
+* ![Article](./Article.png)  [Component Property Binding with @Input() in Angular 2](http://developer.telerik.com/topics/web-development/component-property-binding-input-angular-2/)
+Todd compares in detail the various ways to pass information into a component in Angular 1.x and Angular 2+.
+
+## Content Projection
+* ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
+Juri compares the concepts behind transclusion in Angular 1.x with the content projection mechanisms of Angular 2+.
+
+## Event
+* ![Article](./Article.png)  [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c#.lidun43mv)
+Netanel takes a look at component communication and event emitters in an Angular application that uses RxJS.
 
 ## Peformance
 * ![Article](./Article.png)  [Making your Angular apps fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
@@ -62,6 +84,8 @@ In this article Pascal writes about using the NgZones API to increase the perfor
 ## Testing
 * ![Article](./Article.png)  ![Video](./Video.png)  [Writing a Basic Component Test with Angular Testing Utilities](http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/)
 The article explains how to use Angular's testing utilities and a basic pattern to write component tests.
+* ![Tutorial](./tutorial.png)  [Testing Routes in Angular 2](https://semaphoreci.com/community/tutorials/testing-routes-in-angular-2)
+A detailed tutorial about how to test your application's routes with Angular.
 
 ## Tooling
 * ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
@@ -69,13 +93,16 @@ The article explains how to use Angular's testing utilities and a basic pattern 
 * ![Tutorial](./tutorial.png) [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/)
 A useful website that collects Angular components and libraries with different categories, e.g. UI components, code style, performance or dev tools.
 * ![Article](./Article.png)  [Using Yarn with Angular CLI](https://medium.com/@beeman/using-yarn-with-angular-cli-db2e318e43c5)
+* ![Article](./Article.png)  [Angular-cli and Global SASS Variables](https://netbasal.com/angular-cli-and-global-sass-variables-a1b92d8ca9b7#.azxvbd1bw)
+A quick tip about how to use global SASS variables in your Angular component.
 
-## Component
-* ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
-Learn how to extend the official Material Design SnackBar to create a custom SnackBar with different styles and behavior.
 ## Backend
 * ![Tutorial](./tutorial.png)  [Serverless REST API with Angular, Persistence and Security](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/)
 A tutorial about creating a full stack application with static file hosting, a secure REST API, and a robust persistence layer.
+
+## Desktop
+* ![Tutorial](./tutorial.png)  [Integrating Angular and Electron using ngx-electron](https://medium.com/@ThorstenHans/integrating-angular-and-electron-using-ngx-electron-9c36affca25e#.zgd9x9ezu)
+And here's another short tip showing how to use Thorsten's small library ngx-electron to integrate Electron in an Angular application.
 
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
