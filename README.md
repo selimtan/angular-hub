@@ -1,5 +1,5 @@
 # Angular Hub
-Angular hub is a collection of article, useful links, tutorial and video about Angular. Enjoy with Angular. See also [weekly](./weekly.md) categorized content.
+Angular hub is a collection of articles, useful links, tutorials and videos about Angular. Enjoy with Angular. See also [weekly](./weekly.md) categorized content.
 
 ## General
 * ![Tutorial](./tutorial.png)  [A Step-By-Step Guide for Building Master-Detail User Interfaces with Angular](http://developer.telerik.com/content-types/tutorials/step-step-guide-building-master-detail-user-interfaces-angular/)
