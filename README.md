@@ -11,12 +11,6 @@ And here's another short article that explains the differences between the ngOnI
 * ![Tutorial](./tutorial.png)  [Visualizing Data with Angular and D3](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.ni6yyndy1)
 A cool guide showing you how to create an interactive SVG visualization and bind user interactions with Angular and D3.
 
-## Angular Directives
-* ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
-In this extensive article Todd explores the built-in ngFor directive and demonstrates how Angular expands the directive to a <template> element and composes the view.
-* ![Article](./Article.png)  [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
-Cory shows how to use a new, special ngIf and ngElse syntax to bind async data to an Angular template.
-
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
 A nice summery for beginners: Carlos made a collection of directives and the different ways to make property and data bindings in templates.
