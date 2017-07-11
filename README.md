@@ -11,6 +11,8 @@ A nice summery for beginners: Carlos made a collection of directives and the dif
 ## Class/Styling
 * ![Tutorial](./tutorial.png)  [Angular 2+ Classes with NgClass and NgStyle - Tutorial](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
 A tutorial about creating dynamic styles in multiple ways by using NgClass and NgStyle.
+* ![Article](./Article.png)  [Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.gffhr5r2v)
+Gerard shows different options to style Angular components and directives.
 
 ## Forms
 * ![Article](./Article.png)  [Real World Angular — Form Formation](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
@@ -60,6 +62,7 @@ In this article Pascal writes about using the NgZones API to increase the perfor
 ## Testing
 * ![Article](./Article.png)  ![Video](./Video.png)  [Writing a Basic Component Test with Angular Testing Utilities](http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/)
 The article explains how to use Angular's testing utilities and a basic pattern to write component tests.
+
 ## Tooling
 * ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
 `@Angular/CLI`
@@ -70,6 +73,9 @@ A useful website that collects Angular components and libraries with different c
 ## Component
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
 Learn how to extend the official Material Design SnackBar to create a custom SnackBar with different styles and behavior.
+## Backend
+* ![Tutorial](./tutorial.png)  [Serverless REST API with Angular, Persistence and Security](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/)
+A tutorial about creating a full stack application with static file hosting, a secure REST API, and a robust persistence layer.
 
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
@@ -78,6 +84,10 @@ A tutorial about how to create a web browser extension for Firefox, Chrome, Oper
 * ![Article](./Article.png)  [Angular 2+ Components & Libraries](https://devarchy.com/angular)
 * ![Tutorial](./tutorial.png)  [Bootstrapping in the Browser with Angular](http://developer.telerik.com/topics/web-development/bootstrapping-browser-angular-2/)
 Todd explores the differences between the Angular 1.x and Angular 2+ concepts to bootstrap applications.
+* ![Tutorial](./tutorial.png)  [Building a Real-time Chat with Angular 2 and deepstream](https://www.codementor.io/christiannwamba/building-real-time-chat-angular-deepstream-4miwit44u)
+A guide about using deepstream.io and Angular to build a real-time chat application.
+* ![Article](./Article.png)  [What is Unidirectional Data Flow ? Learn How the Angular Development Mode Works, why it's important to use it and how to Troubleshoot it](http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
+This is a longer, but truly interesting article explaining what exactly happens under the hood when using Angular in development mode.
 
 ## Github
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
