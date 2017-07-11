@@ -1,6 +1,16 @@
 # Angular Hub
 Angular hub is a collection of article, useful links, tutorial and video about Angular. Enjoy with Angular.
 
+## General
+* ![Tutorial](./tutorial.png)  [A Step-By-Step Guide for Building Master-Detail User Interfaces with Angular](http://developer.telerik.com/content-types/tutorials/step-step-guide-building-master-detail-user-interfaces-angular/)
+This is a detailed tutorial about building a Pokédex application by using the master-detail interface pattern and Angular.
+* ![Tutorial](./tutorial.png)  [Angular File Uploads with an Express Backend](https://scotch.io/tutorials/angular-file-uploads-with-an-express-backend)
+Ogundipe shows two ways to create an app to upload files: one by using ng2-file-upload package, and one without using any plugins.
+* ![Article](./Article.png)  [Angular constructor versus ngOnInit](https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook)
+And here's another short article that explains the differences between the ngOnInit lifecycle hook and the constructor method.
+* ![Tutorial](./tutorial.png)  [Visualizing Data with Angular and D3](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb#.ni6yyndy1)
+A cool guide showing you how to create an interactive SVG visualization and bind user interactions with Angular and D3.
+
 ## Angular Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
 * ![Article](./Article.png)  [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
@@ -68,6 +78,8 @@ Paul explains why and how you should use both, lazy loading and preloading modul
 Mosh shows how you can use the JavaScript CPU Profile to find and fix performance problems due to view rendering in your Angular applications.
 * ![Article](./Article.png)  [Using Zones in Angular for Better Performance](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html)
 In this article Pascal writes about using the NgZones API to increase the performance of your Angular application.
+* ![Article](./Article.png)  [Analyzing bundle size with the Angular CLI and Webpack](https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack)
+A quick and interesting tip on how to track the size of bundled Angular applications with the Webpack bundle analyzer.
 
 ## Production/Deployment
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
