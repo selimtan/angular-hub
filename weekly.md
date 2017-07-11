@@ -1,3 +1,17 @@
+### 30 March, 2017
+* [How does Angular teach you to be a better a Software Engineer](https://blog.ngconsultant.io/learn-angular-software-enginner-patterns-architecture-4836ef304b40)
+Opinionated framework like Angular (other frameworks too for that matter, remember React is a library) can teach you many of the industry’s best practices and help you to adopt mindset necessary to successfully implement nontrivial web applications.
+* ![Tutorial](./tutorial.png)  [Handling Multiple Checkboxes in Angular Forms](https://netbasal.com/handling-multiple-checkboxes-in-angular-forms-57eb8e846d21)
+A quick tutorial about how to render a list with multiple checkboxes by using reactive forms.
+* ![Article](./Article.png)  [Angular Component Reuse Strategy](https://medium.com/@juliapassynkova/angular-2-component-reuse-strategy-9f3ddfab23f5)
+Julia shows how the Angular router reuses components and how you can modify the default behavior.
+* ![Article](./Article.png)  [Component Interaction in Angular](https://kfarst.github.io/angular/2017/03/29/component-interaction-in-angular/)
+Kevin summarizes the different possibilities components communicate with another.
+* ![Tutorial](./tutorial.png)  [Wrap any jQuery plugin with Angular component — case study](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
+Michal explains how to wrap the slick-carousel jQuery plugin into an Angular component.
+* ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
+Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
+
 ### 24 March, 2017
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
