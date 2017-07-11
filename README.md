@@ -16,6 +16,10 @@ A tutorial about creating dynamic styles in multiple ways by using NgClass and N
 * ![Article](./Article.png)  [Real World Angular — Form Formation](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
 This is the third part of an article series showing you how to accept, validate and save data with reactive forms.
 
+## Pipes
+* ![Tutorial](./tutorial.png)  [Sorting with Pipes in Angular](https://blog.xmltravelgate.com/sorting-with-pipes-in-angular-2-7370b0839468#.bpnax0mw6)
+A quick tutorial showing how to create a custom pipe for sorting tables.
+
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
 * ![Video](./Video.png)  [Avoid Zombie Subscribers in Angular](https://www.youtube.com/watch?v=oV8b-rlyMdI)
@@ -26,6 +30,10 @@ Wojciech shows what Functional Reactive Programming (FRP) is and how you can use
 ## State Management
 * ![Article](./Article.png)  [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
 A long and super interesting article about the state management in general, the different types of states, and how to avoid common mistakes in your Angular application with by using patterns.
+* ![Tutorial](./tutorial.png)  [From Redux to Angular ngrx/store](https://julienrenaux.fr/2017/02/16/from-redux-to-angular-ngrxstore/)
+Julien shows how to migrate your application from using Redux to using ngrx/store.
+* ![Tutorial](./tutorial.png)  [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/@NetanelBasal/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-1-a878addba622#.b5smn55cj)
+The first part of a tutorial about how to create a todo app with ngrx/store, ngrx/effects.
 
 ## Peformance
 * ![Article](./Article.png)  [Making your Angular apps fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
@@ -34,6 +42,8 @@ In this incredible article Pascal shows how to improve the performance of a demo
 Paul explains why and how you should use both, lazy loading and preloading modules, together to make your application optimized for user interaction.
 * ![Video](./Video.png)  [Profile and optimize your Angular 2 apps](https://www.youtube.com/watch?v=Q1uORsKjrMo)
 Mosh shows how you can use the JavaScript CPU Profile to find and fix performance problems due to view rendering in your Angular applications.
+* ![Article](./Article.png)  [Using Zones in Angular for Better Performance](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html)
+In this article Pascal writes about using the NgZones API to increase the performance of your Angular application.
 
 ## Production/Deployment
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
@@ -47,8 +57,11 @@ Mosh shows how you can use the JavaScript CPU Profile to find and fix performanc
 * ![Article](./Article.png)  [Closure Compiler and Http Requests](http://www.syntaxsuccess.com/viewarticle/closure-compiler-and-http-requests)
 * ![Article](./Article.png)  [Webpack 3 vs Webpack 2](http://www.syntaxsuccess.com/viewarticle/webpack-3-vs-webpack-2)
 
+## Testing
+* ![Article](./Article.png)  ![Video](./Video.png)  [Writing a Basic Component Test with Angular Testing Utilities](http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/)
+The article explains how to use Angular's testing utilities and a basic pattern to write component tests.
 ## Tooling
-* [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
+* ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
 `@Angular/CLI`
 * ![Tutorial](./tutorial.png) [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/)
 A useful website that collects Angular components and libraries with different categories, e.g. UI components, code style, performance or dev tools.
@@ -64,6 +77,7 @@ A tutorial about how to create a web browser extension for Firefox, Chrome, Oper
 * [Build a Music Player with Angular 2+ & Electron I : Setup & Basics Concepts](https://scotch.io/tutorials/build-a-music-player-with-angular-2-electron-i-setup-basics-concepts) - This is a three part tutorial by Chris showing you how to create a music player desktop application for Mac, Windows and Linux with Electron and Angular. There's also a [part II](https://scotch.io/tutorials/build-a-music-player-with-angular-electron-ii-making-the-ui) and [part III](https://scotch.io/tutorials/build-a-music-player-with-angular-electron-iii-bringing-it-all-together) of this series.
 * ![Article](./Article.png)  [Angular 2+ Components & Libraries](https://devarchy.com/angular)
 * ![Tutorial](./tutorial.png)  [Bootstrapping in the Browser with Angular](http://developer.telerik.com/topics/web-development/bootstrapping-browser-angular-2/)
+Todd explores the differences between the Angular 1.x and Angular 2+ concepts to bootstrap applications.
 
 ## Github
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
