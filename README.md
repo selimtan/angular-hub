@@ -51,6 +51,13 @@ For shares how to use the APP_INITIALIZER token to run your code before the appl
 Accessibility (a11y) is often an overlooked aspect of building web applications, especially JavaScript Single Page Apps. Things like forms, routing and event handling are often easy to get wrong in a JavaScript framework
 * ![Tutorial](./tutorial.png)  [Highlight Text Within a String Using Angular and Regular Expressions](http://developer.telerik.com/topics/web-development/highlight-text-within-string-using-angular-regular-expressions/)
 * ![Article](./Article.png)  [How do Protractor and Angular synchronize?](http://loki2302.me/2017/05/19/How-do-Protractor-and-Angular-synchronize/)
+* ![Tutorial](./tutorial.png)  [How To Architect Enterprise Single Page Applications (SPA)](https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1/)
+Code is complex. When we write code we don’t know beforehand what we are trying to do. We get a problem, we break it down into a number of steps and we begin to write each line, making mistakes, correcting, adjusting, making more mistakes (swearing) and eventually what we see in front of us hopefully does what we intended it to do
+* ![Article](./Article.png)  [Don’t use hidden attribute with AngularJS 2](https://medium.com/@dormoshe/angulars-backyard-the-resolving-of-component-dependencies-2015b40e5bd1)
+The Hierarchical DI is a core feature that Angular leans on a lot. Sometimes, the resolution process looks complicated and long.
+* ![Tutorial](./tutorial.png)  [Drag & Drop in Your Angular Apps With ng2-dragula](https://alligator.io/angular/drag-drop-ng2-dragula/)
+* ![Article](./Article.png)  [Using NgUpgrade Like a Pro: Lazy Loading AngularJS Applications](https://blog.nrwl.io/using-ngupgrade-like-a-pro-lazy-loading-angularjs-applications-469819f5c86)
+Victor wrote a new part of an article series about upgrading Angular applications. This time he shows you how to support lazy loading in hybrid mode with AngularJS and Angular.
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -63,6 +70,7 @@ Cory shows how to use a new, special ngIf and ngElse syntax to bind async data t
 * ![Article](./Article.png)  [NgUpgrade in Depth](https://blog.nrwl.io/ngupgrade-in-depth-436a52298a00)
 In this long article Victor explains everything you need to know about the mechanics of the NgUpgrade library.
 * ![Article](./Article.png)  [Angular 4: Enhancing your Templates With 'else' & 'as'](https://www.dev6.com/angular-4-enhancing-your-templates)
+* ![Tutorial](./tutorial.png)  [Create directive for showing error message in form with Angular](https://hackernoon.com/create-reuseable-validation-directive-in-angualr-2-dcb0b0df2ce8)
 
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -75,6 +83,7 @@ A tutorial about creating dynamic styles in multiple ways by using NgClass and N
 Gerard shows different options to style Angular components and directives.
 * ![Article](./Article.png)  [Create an hierarchical style architecture](https://medium.com/@kmathy/angular-create-an-hierarchical-style-architecture-97aa7489cc39)
 A short article about creating a better SCSS architecture by using the /deep/ selector.
+* ![Video](./Video.png)  [Learn The Angular Host Context CSS Selector, See the CLI SAAS integration In Action](https://www.youtube.com/watch?v=zQNAp1WmxLM)
 
 ## Forms
 * ![Article](./Article.png)  [Real World Angular — Form Formation](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
@@ -103,6 +112,7 @@ Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2
 * ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
 Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
 * ![Tutorial](./tutorial.png)  [Angular Singleton Service and a Loading Indicator](https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722)
+* ![Article](./Article.png)  [How to use a service inside another service in Angular 2?](http://articles.hadokoa.net/2017/05/27/use-utility-service-inside-another-service-angular-2/)
 
 ## Routing
 * ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
@@ -126,6 +136,7 @@ Let’s look at the facts. Subject is both an Observable and Observer.
 * ![Article](./Article.png)  [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
 RxJS is an incredible tool for reactive programming, and today we’re going to dive a little deeper into what Observables and observers are - as well as learn how to create our own operators.
 * ![Article](./Article.png)  [Using the takeUntil RxJS Operator to Manage Subscriptions Declaratively](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
+* ![Article](./Article.png)  [Querying a Normalized State with RxJS in Angular](https://netbasal.com/querying-a-normalized-state-with-rxjs-in-angular-71ecd7ca25b4)
 
 
 ## State Management
@@ -143,6 +154,7 @@ In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 
 In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
 * ![Tutorial](./tutorial.png)  [Implementing a Meta-Reducer in ngrx/store](https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a)
 * ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
+* ![Article](./Article.png)  [Reactive apps with Angular & ngrx](http://blog.brakmic.com/reactive-apps-with-angular-ngrx/)
 
 ## Component
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
@@ -162,6 +174,7 @@ A long and interesting article about component design patterns, the separation o
 * ![Article](./Article.png)  [How to create (and use) custom components with Angular 2](http://www.gistia.com/create-use-custom-components-angular-2/)
 * ![Video](./Video.png)  [Component API Design - How To Make Simpler and More Reusable Components Using ng-content](https://www.youtube.com/watch?v=vK22JIwWZPQ)
 * ![Tutorial](./tutorial.png)  [Building Material Themed Components](http://devboosts.com/2017/05/15/building-material-themed-components/)
+* ![Article](./Article.png)  [Here is what you need to know about dynamic components in Angular](https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
@@ -209,6 +222,7 @@ Dylan writes about his experiences from creating his own library with shared ser
 * ![Tutorial](./tutorial.png)  [Continuous everything with Angular, Travis CI, Firebase and Greenkeeper](https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826)
 A quick guide by Janez showing you how to use Travis CI for continuous integration, Firebase for hosting and Greenkeeper as an automated dependency management tool with your Angular application.
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
+* ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module](http://blog.arroyolabs.com/2017/05/converting-your-angular-cli-application-into-a-npm-module/)
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
@@ -290,6 +304,10 @@ If Angular 2 captured your heart as well, you might be interested in grabbing an
 * ![Tutorial](./tutorial.png)  [Getting started on Angular 2 with Bootstrap](http://www.gistia.com/getting-started-angular-2-bootstrap/)
 * ![Tutorial](./tutorial.png)  [How to create library for Angular and publish to npm from scratch](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
 This is an interesting and in-depth article by Elec about what JavaScript modules are, and how you can create your own modules with Angular and publish them to npm
+
+## Projects
+* ![Article](./Article.png)  [Introducing AngularSpree – Open sourcing E-Commerce front-end application in Angular](https://medium.com/aviabird/introducing-angularspree-ad55bea64d6c)
+
 ## Github
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
 
