@@ -66,7 +66,7 @@ Humans think sequentially and chunk down. Object-Oriented Programming requires u
 Interesting piece by Fabien showing you how to use Protractor to catch issues with NgZone and improve the performance of your application.
 * ![Article](./Article.png)  [Common mistakes with Angular Universal](https://malcoded.com/posts/server-rendering-pitfalls)
 * ![Article](./Article.png)  [PWAs with Angular: Being Reliable](https://dev.to/michaelsolati/pwas-with-angular-beingreliable)
-
+* ![Article](./Article.png)  [The Angular HTTP Client - Quickstart Guide](http://blog.angular-university.io/angular-http/#.WWZFdiGud_g.twitter)
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
