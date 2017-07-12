@@ -1,3 +1,18 @@
+### 29 Jun, 2017
+* ![Article](./Article.png)  [Here is why you will not find components inside Angular](https://hackernoon.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
+* ![Article](./Article.png)  [Angular CLI and OS Environment Variables](https://medium.com/@natchiketa/angular-cli-and-os-environment-variables-4cfa3b849659)
+* ![Article](./Article.png)  [Angular Service Workers](https://pascalprecht.github.io/slides/angular-and-service-workers/#/)
+* ![Article](./Article.png)  [Common mistakes with Angular Universal](https://malcoded.com/posts/server-rendering-pitfalls)
+* ![Tutorial](./tutorial.png)  [Create an Animated App Onboarding Process with Ionic 3](https://coursetro.com/posts/code/76/Create-an-Animated-App-Onboarding-Process-with-Ionic-3)
+* ![Article](./Article.png)  [PWAs with Angular: Being Reliable](https://dev.to/michaelsolati/pwas-with-angular-beingreliable)
+* ![Article](./Article.png)  [Real-World Angular Series - Part 1: MEAN Setup & Angular Architecture](https://auth0.com/blog/real-world-angular-series-part-1/)
+* ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module: Part Two](http://blog.arroyolabs.com/2017/06/converting-your-angular-cli-application-into-a-npm-module-part-two/)
+* ![Tutorial](./tutorial.png)  [Creating Stagger Animations in Angular 4](https://coursetro.com/posts/code/78/Creating-Stagger-Animations-in-Angular-4)
+* ![Article](./Article.png)  [Angular ng-content and Content Projection: A Complete Guide - How To Use ng-content To Improve Component API Design](http://blog.angular-university.io/angular-ng-content/)
+* ![Article](./Article.png)  [The mechanics of DOM updates in AngularAngular 2 Best Practices: Change Detector Performance](https://hackernoon.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
+* ![Article](./Article.png)  [A New Wave of Animation Features in Angular](https://www.yearofmoo.com/2017/06/new-wave-of-animation-features.html)
+In this detailed article Matias will show you everything you need to know about Angular and animations: new features, animation options, query() and stagger(), sub animations, and the AnimationBuilder.
+
 ### 15 Jun, 2017
 * ![Article](./Article.png)  [Angular Architecture Paper Cards](https://medium.com/@wingsuitist/angular-architecture-paper-cards-2549f59e4d0d)
 As we boot new developers into Angular we were looking for haptic ways to visualize and form an angular app as well as it’s architecture. And what’s better for that, than some cards to print out and play with
