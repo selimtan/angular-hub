@@ -1,3 +1,21 @@
+### 15 Jun, 2017
+* ![Article](./Article.png)  [Angular Architecture Paper Cards](https://medium.com/@wingsuitist/angular-architecture-paper-cards-2549f59e4d0d)
+As we boot new developers into Angular we were looking for haptic ways to visualize and form an angular app as well as it’s architecture. And what’s better for that, than some cards to print out and play with
+* ![Video](./Video.png)  [Show a loading indicator in Angular using ngIf/else, the as keyword and the async pipe](https://egghead.io/lessons/show-a-loading-indicator-in-angular-using-ngif-else-the-as-keyword-and-the-async-pipe)
+* ![Article](./Article.png)  [Magic Of Dependency Injection in Angular](https://blog.knoldus.com/2017/06/15/magic-of-dependency-injection-in-angular-2/)
+* ![Article](./Article.png)  [Angular Testing: Using Spies](https://alligator.io/angular/testing-with-spies/)
+* ![Article](./Article.png)  [Introduction to Unit Testing in Angular](https://alligator.io/angular/introduction-unit-testing/)
+* ![Tutorial](./tutorial.png)  [How To Read QR Codes In Angular?](https://www.techiediaries.com/read-qrcodes-angular/)
+* ![Article](./Article.png)  [How to make MultiLingual web applications in Angular](How to make MultiLingual web applications in Angular)
+* ![Tutorial](./tutorial.png)  [Building an Angular Video Player with Videogular](https://www.toptal.com/angular-js/angular-video-player-videogular)
+* ![Video](./Video.png)  [Learn Several Angular Advanced Features - ng-template, ng-container and ngTemplateOutle](https://www.youtube.com/watch?v=HVxvLifo0eI)
+* ![Article](./Article.png)  [Leverage Structural Directives to Create Powerful Components in Angular](https://netbasal.com/leverage-structural-directives-to-create-powerful-components-in-angular-c95e3cfde789)
+* ![Article](./Article.png)  [An Angular 2 Webpack setup for development and production](https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24)
+* ![Article](./Article.png)  [Enhanced ngIf and ngFor in Angular version 4.0.0](https://juristr.com/blog/2017/06/new-enhanced-ngIf-and-ngFor/)
+Juri shares how the enhanced *ngIf and *ngFor directives of Angular version 4.0.0 make working with observables more convenient.
+* ![Article](./Article.png)  [You may need Protractor for more than testing your Angular 4 app…](https://medium.com/@TuiZ/you-may-need-protractor-for-more-than-testing-your-angular-4-app-e08533046e5d)
+Interesting piece by Fabien showing you how to use Protractor to catch issues with NgZone and improve the performance of your application.
+
 ### 08 Jun, 2017
 * ![Article](./Article.png)  [Functional Reactive Angular Revealed](https://blog.dmbcllc.com/functional-reactive-angular-revealed/)
 Humans think sequentially and chunk down. Object-Oriented Programming requires us to think holistically, frequently in parallel, and chunk up.
