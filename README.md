@@ -211,6 +211,7 @@ In this article Netanel shows how he implemented Event modifiers, a feature from
 
 ## Dependency Injection
 * ![Article](./Article.png)  [Magic Of Dependency Injection in Angular](https://blog.knoldus.com/2017/06/15/magic-of-dependency-injection-in-angular-2/)
+* ![Article](./Article.png)  [Mastering Angular dependency injection with @Inject, @Injectable, tokens and providers](https://toddmotto.com/angular-dependency-injection)
 
 ## DOM Manipulation
 * ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
