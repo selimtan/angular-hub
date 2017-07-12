@@ -136,6 +136,7 @@ Todd compares the .service() method of Angular 1.x with Angular 2+ services. The
 * ![Article](./Article.png)  [Angular Guards: More than Security](https://medium.com/@amcdnl/angular-guards-more-than-security-c04be35adb00)
 * ![Article](./Article.png)  [How can we default to a route in Angular?](http://articles.hadokoa.net/2017/06/06/can-default-route-angular/)
 * ![Article](./Article.png)  [Angular Router: Query Parameters](https://alligator.io/angular/query-parameters/)
+* ![Article](./Article.png)  [Resolving route data in Angular](https://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html)
 
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
