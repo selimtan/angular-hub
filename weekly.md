@@ -132,6 +132,7 @@ You can leverage decorators in your apps and create powerful things with them. D
 * ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
 * ![Tutorial](./tutorial.png)  [Continuous everything with Angular, Travis CI, Firebase and Greenkeeper](https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826)
 A quick guide by Janez showing you how to use Travis CI for continuous integration, Firebase for hosting and Greenkeeper as an automated dependency management tool with your Angular application.
+* ![Article](./Article.png)  [Angular Master Class - Redux and ngrx](https://blog.thoughtram.io/angular/2017/05/08/angular-master-class-redux-and-ngrx.html)
 
 ### 27 Apr, 2017
 * ![Article](./Article.png)  [Lazy Loading in Angular](https://alligator.io/angular/lazy-loading/)
