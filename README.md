@@ -24,12 +24,14 @@ Really useful list of things to consider when planning an Angular application �
 Opinionated framework like Angular (other frameworks too for that matter, remember React is a library) can teach you many of the industry’s best practices and help you to adopt mindset necessary to successfully implement nontrivial web applications.
 * ![Tutorial](./tutorial.png)  [Wrap any jQuery plugin with Angular component — case study](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
 Michal explains how to wrap the slick-carousel jQuery plugin into an Angular component.
+* ![Article](./Article.png)  [Exploring The New Meta Service in Angular Version 4](https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6)
 
-## Angular Directives
+## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
 In this extensive article Todd explores the built-in ngFor directive and demonstrates how Angular expands the directive to a template element and composes the view.
 * ![Article](./Article.png)  [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
 Cory shows how to use a new, special ngIf and ngElse syntax to bind async data to an Angular template.
+* ![Article](./Article.png)  [NgIf Else lands in Angular 2.x+/4.0](https://medium.com/@ashishait/ngif-else-lands-in-angular-2-0-a242940e54ff)
 
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -50,15 +52,20 @@ This is the third part of an article series showing you how to accept, validate 
 This is a long, in-depth article about forms, covering the FormsModule and the ReactiveFormsModule.
 * ![Tutorial](./tutorial.png)  [Handling Multiple Checkboxes in Angular Forms](https://netbasal.com/handling-multiple-checkboxes-in-angular-forms-57eb8e846d21)
 A quick tutorial about how to render a list with multiple checkboxes by using reactive forms.
+* ![Tutorial](./tutorial.png)  [Reactive Forms in Angular: Creating a Custom Validator](https://alligator.io/angular/reactive-forms-custom-validator/)
+A quick guide about how to use reactive forms to define a custom form validator. If you like the article, you might want to check out their article "Reactive Forms in Angular: An Introduction".
 
 ## Pipes
 * ![Tutorial](./tutorial.png)  [Sorting with Pipes in Angular](https://blog.xmltravelgate.com/sorting-with-pipes-in-angular-2-7370b0839468#.bpnax0mw6)
 A quick tutorial showing how to create a custom pipe for sorting tables.
 * ![Article](./Article.png)  [Three Things You Didn't Know About the AsyncPipe](https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html)
 Christoph shares three special AsyncPipe features, e.g. how to use the AsyncPipe to subscribe to observables that emit multiple values.
+* ![Article](./Article.png)  [Using Pipes in Angular](http://developer.telerik.com/topics/web-development/using-pipes-angular-2/)
+Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2+.
 ## Services
 * ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
 Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
+
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
 * ![Video](./Video.png)  [Avoid Zombie Subscribers in Angular](https://www.youtube.com/watch?v=oV8b-rlyMdI)
@@ -75,6 +82,8 @@ A long and super interesting article about the state management in general, the 
 Julien shows how to migrate your application from using Redux to using ngrx/store.
 * ![Tutorial](./tutorial.png)  [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/@NetanelBasal/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-1-a878addba622#.b5smn55cj)
 The first part of a tutorial about how to create a todo app with ngrx/store, ngrx/effects.
+* ![Tutorial](./tutorial.png)  [UI state management with Redux in Angular 2](https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-2)
+In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 to manage user interface states with Redux.
 
 ## Component
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
@@ -121,6 +130,8 @@ A quick and interesting tip on how to track the size of bundled Angular applicat
 @Amazon, @Production
 * [Angular Continuous Integration](http://slides.com/elecash/angular-continuous-integration#/)
 Interesting slides for Raúl's talk at ngVikings 2017 about continuous integration with Angular and Travis CI.
+* ![Article](./Article.png)  [Writing an AOT Compliant Angular Library](http://dbarnes.me/writing-an-aot-compliant-angular-library/)
+Dylan writes about his experiences from creating his own library with shared services and how to make it work with ahead of time compilation.
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
@@ -134,6 +145,9 @@ Interesting slides for Raúl's talk at ngVikings 2017 about continuous integrati
 The article explains how to use Angular's testing utilities and a basic pattern to write component tests.
 * ![Tutorial](./tutorial.png)  [Testing Routes in Angular 2](https://semaphoreci.com/community/tutorials/testing-routes-in-angular-2)
 A detailed tutorial about how to test your application's routes with Angular.
+* ![Tutorial](./tutorial.png)  [Testing Angular Faster With Jest](https://www.xfive.co/blog/testing-angular-faster-jest/)
+Michal shows how to use Jest and Jasmine for unit testing your Angular application, instead of Karma and Jasmine.
+
 
 ## Tooling
 * ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
@@ -166,7 +180,8 @@ Todd explores the differences between the Angular 1.x and Angular 2+ concepts to
 A guide about using deepstream.io and Angular to build a real-time chat application.
 * ![Article](./Article.png)  [What is Unidirectional Data Flow ? Learn How the Angular Development Mode Works, why it's important to use it and how to Troubleshoot it](http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
 This is a longer, but truly interesting article explaining what exactly happens under the hood when using Angular in development mode.
-
+* ![Tutorial](./tutorial.png)  [Building a Canvas component with Free Hand drawing using RxJS and Angular](https://medium.com/@tarik.nzl/creating-a-canvas-component-with-free-hand-drawing-with-rxjs-and-angular-61279f577415)
+Short but impressive tutorial by Tarik explaining how to create a canvas element that allows free hand drawings with RxJS. 
 ## Library
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
