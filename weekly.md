@@ -1,3 +1,18 @@
+### 27 Apr, 2017
+* ![Article](./Article.png)  [Lazy Loading in Angular](https://alligator.io/angular/lazy-loading/)
+* ![Article](./Article.png)  [Preloading in Angular](https://alligator.io/angular/preloading/)
+* ![Article](./Article.png)  [The Ultimate Angular CLI Reference Guide](https://www.sitepoint.com/ultimate-angular-cli-reference/)
+* ![Tutorial](./tutorial.png)  [Angular 2/4 - Router Animation Tutorial & Example](http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example)
+* ![Tutorial](./tutorial.png)  [Build a simple Emoji Chrome Extension with Angular CLI](https://medium.com/@_JoshSommer/build-a-simple-emoji-chrome-extension-with-angular-cli-84937a1ca640)
+* ![Article](./Article.png)[Removing Roadblocks in the Move to Angular 4](https://www.lucidchart.com/techblog/2017/04/20/removing-roadblocks-move-angular-4/)
+* ![Tutorial](./tutorial.png)  [Unit Test Your ngrx/effects in Angular](https://netbasal.com/unit-test-your-ngrx-effects-in-angular-1bf2142dd459)
+* ![Article](./Article.png)  [7 Angular Tools That You Should Consider](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
+* ![Article](./Article.png)  [Reusing ngrx/effects in Angular (communicating between reducers)](http://orizens.com/wp/topics/reusing-ngrxeffects-in-angular-communicating-between-reducers/)
+* ![Article](./Article.png)  [Everything you need to know about debugging Angular applications](https://medium.com/@maximus.koretskyi/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
+A detailed article about ways to degub an Angular application, from debugging the source code to debugging in the browser console.
+* ![Article](./Article.png)  [Reactive Programming in Angular](https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c)
+In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
+
 ### 20 Apr, 2017
 * ![Video](./Video.png)  [Angular 2 + Node.js - Build Socket Chat Application](https://www.youtube.com/watch?v=yXyWSCxmtTo)
 Learn how to create a chat app using Angular and Node.js. We'll be using socket.io, express.js on the server, along with gulp and Angular
@@ -7,6 +22,7 @@ A quick tutorial about using checkboxes to filter lists.
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
 * ![Article](./Article.png)  [Implementing Event Modifiers in Angular](https://netbasal.com/implementing-event-modifiers-in-angular-87e1a07969ce)
 In this article Netanel shows how he implemented Event modifiers, a feature from the Vue library, in Angular.
+* ![Article](./Article.png)  [When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
 
 
 ### 13 Apr, 2017
