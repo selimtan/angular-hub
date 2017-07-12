@@ -47,6 +47,10 @@ You can leverage decorators in your apps and create powerful things with them. D
 * ![Tutorial](./tutorial.png)  [Setting Default Headers in Angular](https://blog.alex-miller.co/angular/2017/05/13/default-headers-in-angular.html)
 * ![Article](./Article.png)  [Hook into Angular Initialization Process](https://hackernoon.com/hook-into-angular-initialization-process-add41a6b7e)
 For shares how to use the APP_INITIALIZER token to run your code before the application was loaded and shows other use cases for the injection token.
+* ![Article](./Article.png)  [Angular 2 Best Practices: Change Detector Performance](https://coryrylan.com/blog/angular-accessibility-tips-and-tricks)
+Accessibility (a11y) is often an overlooked aspect of building web applications, especially JavaScript Single Page Apps. Things like forms, routing and event handling are often easy to get wrong in a JavaScript framework
+* ![Tutorial](./tutorial.png)  [Highlight Text Within a String Using Angular and Regular Expressions](http://developer.telerik.com/topics/web-development/highlight-text-within-string-using-angular-regular-expressions/)
+* ![Article](./Article.png)  [How do Protractor and Angular synchronize?](http://loki2302.me/2017/05/19/How-do-Protractor-and-Angular-synchronize/)
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -58,6 +62,7 @@ Cory shows how to use a new, special ngIf and ngElse syntax to bind async data t
 * ![Article](./Article.png)  [Angular Components and Directives - a Beginner-Friendly Introduction: Learn How To Extend The Browser And Build Your Own HTML Tags](http://blog.angular-university.io/angular-components-and-directives-for-beginners/)
 * ![Article](./Article.png)  [NgUpgrade in Depth](https://blog.nrwl.io/ngupgrade-in-depth-436a52298a00)
 In this long article Victor explains everything you need to know about the mechanics of the NgUpgrade library.
+* ![Article](./Article.png)  [Angular 4: Enhancing your Templates With 'else' & 'as'](https://www.dev6.com/angular-4-enhancing-your-templates)
 
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -103,6 +108,7 @@ Todd compares the .service() method of Angular 1.x with Angular 2+ services. The
 * ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
 * ![Tutorial](./tutorial.png)  [Angular Router: Defining Child Routes](https://alligator.io/angular/angular-router-child-routes/)
 * ![Tutorial](./tutorial.png)  [Implementing Auth Guard with Componentless Route in Angular](https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77)
+* ![Article](./Article.png)  [Angular Guards: More than Security](https://medium.com/@amcdnl/angular-guards-more-than-security-c04be35adb00)
 
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
@@ -119,6 +125,7 @@ This is one of those few operators that we will probably use in just about any a
 Let’s look at the facts. Subject is both an Observable and Observer.
 * ![Article](./Article.png)  [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
 RxJS is an incredible tool for reactive programming, and today we’re going to dive a little deeper into what Observables and observers are - as well as learn how to create our own operators.
+* ![Article](./Article.png)  [Using the takeUntil RxJS Operator to Manage Subscriptions Declaratively](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
 
 
 ## State Management
@@ -201,6 +208,7 @@ Interesting slides for Raúl's talk at ngVikings 2017 about continuous integrati
 Dylan writes about his experiences from creating his own library with shared services and how to make it work with ahead of time compilation.
 * ![Tutorial](./tutorial.png)  [Continuous everything with Angular, Travis CI, Firebase and Greenkeeper](https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826)
 A quick guide by Janez showing you how to use Travis CI for continuous integration, Firebase for hosting and Greenkeeper as an automated dependency management tool with your Angular application.
+* ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
@@ -222,7 +230,9 @@ Michal shows how to use Jest and Jasmine for unit testing your Angular applicati
 * ![Article](./Article.png)  [Using Stubs and Mocks in Jasmine to test your Angular code](http://blog.arroyolabs.com/2017/04/angular-2-unit-test-mocks-stubs/)
 Andy writes about unit testing your Angular application with test stubs and mock objects by using Jasmine.
 * ![Tutorial](./tutorial.png)  [Unit Test Your ngrx/effects in Angular](https://netbasal.com/unit-test-your-ngrx-effects-in-angular-1bf2142dd459)
-
+* ![Tutorial](./tutorial.png)  [Testing Dumb Components in Angular](https://netbasal.com/testing-dumb-components-in-angular-ba90a97a7129)
+* ![Tutorial](./tutorial.png)  [Testing Asynchronous Code with FakeAsync in Angula](https://www.joshmorony.com/testing-asynchronous-code-with-fakeasync-in-angular/)
+* ![Video](./Video.png)  [How To Debug Angular Tests - An Step-by-Step Example of How To Troubleshoot a Failing Test](https://www.youtube.com/watch?v=6D7GI7Whcvc)
 
 ## Tooling
 * ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
@@ -253,6 +263,7 @@ And here's another short tip showing how to use Thorsten's small library ngx-ele
 * ![Tutorial](./tutorial.png)  [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
 * ![Tutorial](./tutorial.png)  [Ionic 3 Google Plus Authentication Tutorial](https://www.djamware.com/post/59094a2280aca7414e78a63d/ionic-3-google-plus-authentication-tutorial)
+* ![Tutorial](./tutorial.png)  [How to build hybrid app using Ionic 3 and Angular](http://keysandstrokes.info/angular-4-with-ionic-3/)
 
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
@@ -270,10 +281,15 @@ This is a longer, but truly interesting article explaining what exactly happens 
 Short but impressive tutorial by Tarik explaining how to create a canvas element that allows free hand drawings with RxJS. 
 * ![Tutorial](./tutorial.png)  [Build a simple Emoji Chrome Extension with Angular CLI](https://medium.com/@_JoshSommer/build-a-simple-emoji-chrome-extension-with-angular-cli-84937a1ca640)
 
+## Angular Material
+* ![Article](./Article.png)  [Custom Themes With Angular Material](https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html)
+In this long guide Pascal explains in details how theming works with Angular Material: how to use pre-built themes, and how to create your own custom themes
 ## Library
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
-
+* ![Tutorial](./tutorial.png)  [Getting started on Angular 2 with Bootstrap](http://www.gistia.com/getting-started-angular-2-bootstrap/)
+* ![Tutorial](./tutorial.png)  [How to create library for Angular and publish to npm from scratch](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
+This is an interesting and in-depth article by Elec about what JavaScript modules are, and how you can create your own modules with Angular and publish them to npm
 ## Github
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
 
