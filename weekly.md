@@ -1,3 +1,17 @@
+### 18 May, 2017
+* ![Article](./Article.png)  [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
+RxJS is an incredible tool for reactive programming, and today we’re going to dive a little deeper into what Observables and observers are - as well as learn how to create our own operators.
+* ![Tutorial](./tutorial.png)  [Create the toJSON operator in Angular](https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21)
+* ![Article](./Article.png)  [Angular Components and Directives - a Beginner-Friendly Introduction: Learn How To Extend The Browser And Build Your Own HTML Tags](http://blog.angular-university.io/angular-components-and-directives-for-beginners/)
+* ![Video](./Video.png)  [Component API Design - How To Make Simpler and More Reusable Components Using ng-content](https://www.youtube.com/watch?v=vK22JIwWZPQ)
+* ![Tutorial](./tutorial.png)  [Implementing Auth Guard with Componentless Route in Angular](https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77)
+* ![Tutorial](./tutorial.png)  [Setting Default Headers in Angular](https://blog.alex-miller.co/angular/2017/05/13/default-headers-in-angular.html)
+* ![Tutorial](./tutorial.png)  [Building Material Themed Components](http://devboosts.com/2017/05/15/building-material-themed-components/)
+* ![Article](./Article.png)  [NgUpgrade in Depth](https://blog.nrwl.io/ngupgrade-in-depth-436a52298a00)
+In this long article Victor explains everything you need to know about the mechanics of the NgUpgrade library.
+* ![Article](./Article.png)  [Hook into Angular Initialization Process](https://hackernoon.com/hook-into-angular-initialization-process-add41a6b7e)
+For shares how to use the APP_INITIALIZER token to run your code before the application was loaded and shows other use cases for the injection token.
+
 ### 11 May, 2017
 * ![Article](./Article.png)  [Deep Dive Into The RxJs switchMap Operator - How Does it Work ? A Less Well-Known Use Case (selector functions)](http://blog.angular-university.io/rxjs-switchmap-operator/)
 This is one of those few operators that we will probably use in just about any application that we build
