@@ -1,3 +1,19 @@
+### 11 May, 2017
+* ![Article](./Article.png)  [Deep Dive Into The RxJs switchMap Operator - How Does it Work ? A Less Well-Known Use Case (selector functions)](http://blog.angular-university.io/rxjs-switchmap-operator/)
+This is one of those few operators that we will probably use in just about any application that we build
+* [RxJS Subjects for human beings](https://netbasal.com/rxjs-subjects-for-human-beings-7807818d4e4d)
+Let’s look at the facts. Subject is both an Observable and Observer.
+* ![Tutorial](./tutorial.png)  [Angular Router: Defining Child Routes](https://alligator.io/angular/angular-router-child-routes/)
+* ![Tutorial](./tutorial.png)  [Angular Singleton Service and a Loading Indicator](https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722)
+* ![Article](./Article.png)  [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
+* ![Tutorial](./tutorial.png)  [angular-tslint-rules: a configuration preset for both TSLint & codelyzer](https://medium.com/burak-tasci/angular-tslint-rules-a-configuration-preset-for-both-tslint-codelyzer-8b5fa1455908)
+* ![Article](./Article.png)  [Angular Model Pattern](https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87)
+* ![Video](./Video.png)  [Single-Page Applications with Angular 2 and ASP.NET Core](https://www.youtube.com/watch?v=qbi1Kq9eXLg)
+* ![Tutorial](./tutorial.png)  [User Authentication with Angular and ASP.NET Core](https://fullstackmark.com/post/10/user-authentication-with-angular-and-asp-net-core)
+A super detailed step-by-step tutorial showing you how to add user authentication to an Angular application powered by an ASP.NET Core backend API.
+* ![Article](./Article.png)  [Component architecture recipes for Angular’s reactive forms](https://toddmotto.com/component-architecture-reactive-forms-angular)
+In this long article Todd shares some patterns for using a component architecture with reactive forms.
+
 ### 04 May, 2017
 * ![Article](./Article.png)  [Inspiration for Custom Decorators in Angular](https://netbasal.com/inspiration-for-custom-decorators-in-angular-95aeb87f072c)
 You can leverage decorators in your apps and create powerful things with them. Decorators are not only for frameworks or libraries, so be creative and start using them.
