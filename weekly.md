@@ -1,3 +1,19 @@
+### 08 Jun, 2017
+* ![Article](./Article.png)  [Functional Reactive Angular Revealed](https://blog.dmbcllc.com/functional-reactive-angular-revealed/)
+Humans think sequentially and chunk down. Object-Oriented Programming requires us to think holistically, frequently in parallel, and chunk up.
+* ![Article](./Article.png)  [How can we default to a route in Angular?](http://articles.hadokoa.net/2017/06/06/can-default-route-angular/)
+* ![Video](./Video.png)  [Learn Angular Template References And How To Configure a Component With Partial Templates](https://www.youtube.com/watch?v=T1es5K09vVI)
+* ![Tutorial](./tutorial.png)  [Animated slide panel with Angular](https://medium.com/@asm/animated-slide-panel-with-angular-e985ad646f9)
+* ![Article](./Article.png)  [Angular Router: Query Parameters](https://alligator.io/angular/query-parameters/)
+* ![Article](./Article.png)  [Angular Build with Webpack and Babili](http://www.syntaxsuccess.com/viewarticle/angular-build-with-webpack-and-babili-)
+* ![Video](./Video.png)  [Angular Advanced - A Video List About Several Advanced Angular Topics](http://blog.angular-university.io/angular-advanced-course/)
+* ![Tutorial](./tutorial.png)  [How to Integrate reCAPTCHA in your Angular Forms](https://netbasal.com/how-to-integrate-recaptcha-in-your-angular-forms-400c43344d5c)
+* ![Tutorial](./tutorial.png)  [Angular and RxJS: Create an API Service to Talk to a REST Backend](https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/)
+* ![Article](./Article.png)  [The complete guide to Angular Material Themes](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
+In this article Tomas explains why you should make use of themes and how to create them with the Angular Material library
+* ![Article](./Article.png)  [Form Validation in a NativeScript Angular Mobile Application](http://developer.telerik.com/products/nativescript/form-validation-nativescript-angular-mobile-application/)
+Nic shows two ways how to do a client-side validation for NativeScript forms with Angular: by using built-in Angular validators, and by writing custom directives for further validation
+
 ### 01 Jun, 2017
 * ![Tutorial](./tutorial.png)  [How To Architect Enterprise Single Page Applications (SPA)](https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1/)
 Code is complex. When we write code we don’t know beforehand what we are trying to do. We get a problem, we break it down into a number of steps and we begin to write each line, making mistakes, correcting, adjusting, making more mistakes (swearing) and eventually what we see in front of us hopefully does what we intended it to do
