@@ -25,6 +25,14 @@ Opinionated framework like Angular (other frameworks too for that matter, rememb
 * ![Tutorial](./tutorial.png)  [Wrap any jQuery plugin with Angular component — case study](https://hackernoon.com/wrap-any-jquery-plugin-with-angular-2-component-case-study-8b00eacec998)
 Michal explains how to wrap the slick-carousel jQuery plugin into an Angular component.
 * ![Article](./Article.png)  [Exploring The New Meta Service in Angular Version 4](https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6)
+* ![Article](./Article.png)  [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
+The article explains what NgModules are, when you should import NgModules, and how to manage SharedModules.
+* ![Article](./Article.png)  [Angular 2 with Array.include and Object.entries](https://medium.com/@juliapassynkova/angular-2-with-array-include-and-object-entries-a27821d1fed9)
+A quick tip on how to use Array.include and Object.entries in your Angular 
+* ![Tutorial](./tutorial.png)  [File Uploads in Angular with a Node and Hapi Backend](https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend)
+Jecelyn shows how to create a drag and drop image uploader for single and multiple files with Angular and Hapi.js.
+* ![Video](./Video.png)  [Angular 2 + Node.js - Build Socket Chat Application](https://www.youtube.com/watch?v=yXyWSCxmtTo)
+Learn how to create a chat app using Angular and Node.js. We'll be using socket.io, express.js on the server, along with gulp and Angular
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -54,6 +62,9 @@ This is a long, in-depth article about forms, covering the FormsModule and the R
 A quick tutorial about how to render a list with multiple checkboxes by using reactive forms.
 * ![Tutorial](./tutorial.png)  [Reactive Forms in Angular: Creating a Custom Validator](https://alligator.io/angular/reactive-forms-custom-validator/)
 A quick guide about how to use reactive forms to define a custom form validator. If you like the article, you might want to check out their article "Reactive Forms in Angular: An Introduction".
+* ![Tutorial](./tutorial.png)  [Angular Filter Checkboxes](https://long2know.com/2017/04/angular-filter-checkboxes/)
+A quick tutorial about using checkboxes to filter lists.
+
 
 ## Pipes
 * ![Tutorial](./tutorial.png)  [Sorting with Pipes in Angular](https://blog.xmltravelgate.com/sorting-with-pipes-in-angular-2-7370b0839468#.bpnax0mw6)
@@ -84,6 +95,7 @@ Julien shows how to migrate your application from using Redux to using ngrx/stor
 The first part of a tutorial about how to create a todo app with ngrx/store, ngrx/effects.
 * ![Tutorial](./tutorial.png)  [UI state management with Redux in Angular 2](https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-2)
 In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 to manage user interface states with Redux.
+* ![Article](./Article.png)  [What I have learned using ngrx/Redux with Angular](https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661)
 
 ## Component
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
@@ -96,14 +108,20 @@ In this article you'll learn how to break a single component into a structured t
 Julia shows how the Angular router reuses components and how you can modify the default behavior.
 * ![Article](./Article.png)  [Component Interaction in Angular](https://kfarst.github.io/angular/2017/03/29/component-interaction-in-angular/)
 Kevin summarizes the different possibilities components communicate with another.
+* ![Article](./Article.png)  [Using Angular Components in a Non-Angular App](https://www.lucidchart.com/techblog/2017/04/10/using-angular-2-components-in-a-non-angular-app/)
+Shridharan explains how to use multiple Angular components in a project that is not written in Angular, but a simple JavaScript application.
+* ![Article](./Article.png)  [Angular Component Design: How to Avoid Custom Event Bubbling And Extraneous Properties in the Local Component Tree](http://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/)
+A long and interesting article about component design patterns, the separation of Container Components and Presentational Components, and potential issues with it.
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
 Juri compares the concepts behind transclusion in Angular 1.x with the content projection mechanisms of Angular 2+.
 
-## Event
+## Events
 * ![Article](./Article.png)  [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c#.lidun43mv)
 Netanel takes a look at component communication and event emitters in an Angular application that uses RxJS.
+* ![Article](./Article.png)  [Implementing Event Modifiers in Angular](https://netbasal.com/implementing-event-modifiers-in-angular-87e1a07969ce)
+In this article Netanel shows how he implemented Event modifiers, a feature from the Vue library, in Angular.
 
 ## DOM Manipulation
 * ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
@@ -147,6 +165,8 @@ The article explains how to use Angular's testing utilities and a basic pattern 
 A detailed tutorial about how to test your application's routes with Angular.
 * ![Tutorial](./tutorial.png)  [Testing Angular Faster With Jest](https://www.xfive.co/blog/testing-angular-faster-jest/)
 Michal shows how to use Jest and Jasmine for unit testing your Angular application, instead of Karma and Jasmine.
+* ![Article](./Article.png)  [Using Stubs and Mocks in Jasmine to test your Angular code](http://blog.arroyolabs.com/2017/04/angular-2-unit-test-mocks-stubs/)
+Andy writes about unit testing your Angular application with test stubs and mock objects by using Jasmine.
 
 
 ## Tooling
@@ -159,6 +179,9 @@ A useful website that collects Angular components and libraries with different c
 A quick tip about how to use global SASS variables in your Angular component.
 * ![Article](./Article.png)  [Powerful Analytics tool for Angular applications: Angulartics2](https://medium.com/altar-io/powerful-analytics-tool-for-angular-applications-angulartics2-c509e17db2a3#.v07zp6roz)
 Most analytics providers do not automatically track the browser’s navigation history, making it difficult to track Single Page Applications (SPAs) like Angular applications.
+* ![Article](./Article.png)  [Angular CLI: multiple apps in the same project ](https://yakovfain.com/2017/04/06/angular-cli-multiple-apps-in-the-same-project/)
+And here's another brief tip: Yakov shares how to modify the Angular CLI to work with an Angular project that has multiple apps.
+
 
 ## Backend
 * ![Tutorial](./tutorial.png)  [Serverless REST API with Angular, Persistence and Security](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/)
@@ -168,6 +191,9 @@ A tutorial about creating a full stack application with static file hosting, a s
 * ![Tutorial](./tutorial.png)  [Integrating Angular and Electron using ngx-electron](https://medium.com/@ThorstenHans/integrating-angular-and-electron-using-ngx-electron-9c36affca25e#.zgd9x9ezu)
 And here's another short tip showing how to use Thorsten's small library ngx-electron to integrate Electron in an Angular application.
 
+## Mobile
+* [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
+A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
 A tutorial about how to create a web browser extension for Firefox, Chrome, Opera or Edge by using the WebExtensions API and Angular.
