@@ -1,3 +1,18 @@
+### 04 May, 2017
+* ![Article](./Article.png)  [Inspiration for Custom Decorators in Angular](https://netbasal.com/inspiration-for-custom-decorators-in-angular-95aeb87f072c)
+You can leverage decorators in your apps and create powerful things with them. Decorators are not only for frameworks or libraries, so be creative and start using them.
+* ![Article](./Article.png)  [Using Import = Require Syntax With TypeScript 2.2 In Angular 2.4.9](https://www.bennadel.com/blog/3259-using-import-require-syntax-with-typescript-2-2-in-angular-2-4-9.htm)
+* ![Tutorial](./tutorial.png)  [Implementing a Meta-Reducer in ngrx/store](https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a)
+* ![Article](./Article.png)  [How to create (and use) custom components with Angular 2](http://www.gistia.com/create-use-custom-components-angular-2/)
+* ![Video](./Video.png)  [Creating and Maintaining Documentation](https://www.youtube.com/watch?v=iwA6vc3gZgw)
+* ![Article](./Article.png)  [NgUpgrade with Lazy Loading](http://www.syntaxsuccess.com/viewarticle/ngupgrade-with-lazy-loading)
+* ![Tutorial](./tutorial.png)  [Ionic 3 Google Plus Authentication Tutorial](https://www.djamware.com/post/59094a2280aca7414e78a63d/ionic-3-google-plus-authentication-tutorial)
+* ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
+* ![Article](./Article.png)  [Custom Preloading and Lazy Loading Strategies with Angular](https://coryrylan.com/blog/custom-preloading-and-lazy-loading-strategies-with-angular)
+* ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
+* ![Tutorial](./tutorial.png)  [Continuous everything with Angular, Travis CI, Firebase and Greenkeeper](https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826)
+A quick guide by Janez showing you how to use Travis CI for continuous integration, Firebase for hosting and Greenkeeper as an automated dependency management tool with your Angular application.
+
 ### 27 Apr, 2017
 * ![Article](./Article.png)  [Lazy Loading in Angular](https://alligator.io/angular/lazy-loading/)
 * ![Article](./Article.png)  [Preloading in Angular](https://alligator.io/angular/preloading/)
