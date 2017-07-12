@@ -192,7 +192,7 @@ A tutorial about creating a full stack application with static file hosting, a s
 And here's another short tip showing how to use Thorsten's small library ngx-electron to integrate Electron in an Angular application.
 
 ## Mobile
-* [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
+* ![Tutorial](./tutorial.png)  [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
