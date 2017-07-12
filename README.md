@@ -36,6 +36,10 @@ Learn how to create a chat app using Angular and Node.js. We'll be using socket.
 * ![Article](./Article.png)  [Lazy Loading in Angular](https://alligator.io/angular/lazy-loading/)
 * ![Article](./Article.png)  [Preloading in Angular](https://alligator.io/angular/preloading/)
 * ![Article](./Article.png)[Removing Roadblocks in the Move to Angular 4](https://www.lucidchart.com/techblog/2017/04/20/removing-roadblocks-move-angular-4/)
+* ![Article](./Article.png)  [Inspiration for Custom Decorators in Angular](https://netbasal.com/inspiration-for-custom-decorators-in-angular-95aeb87f072c)
+You can leverage decorators in your apps and create powerful things with them. Decorators are not only for frameworks or libraries, so be creative and start using them.
+* ![Video](./Video.png)  [Creating and Maintaining Documentation](https://www.youtube.com/watch?v=iwA6vc3gZgw)
+* ![Article](./Article.png)  [Custom Preloading and Lazy Loading Strategies with Angular](https://coryrylan.com/blog/custom-preloading-and-lazy-loading-strategies-with-angular)
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -43,6 +47,7 @@ In this extensive article Todd explores the built-in ngFor directive and demonst
 * ![Article](./Article.png)  [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
 Cory shows how to use a new, special ngIf and ngElse syntax to bind async data to an Angular template.
 * ![Article](./Article.png)  [NgIf Else lands in Angular 2.x+/4.0](https://medium.com/@ashishait/ngif-else-lands-in-angular-2-0-a242940e54ff)
+* ![Article](./Article.png)  [NgUpgrade with Lazy Loading](http://www.syntaxsuccess.com/viewarticle/ngupgrade-with-lazy-loading)
 
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -80,6 +85,9 @@ Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2
 * ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
 Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
 
+## Routing
+* ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
+
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
 * ![Video](./Video.png)  [Avoid Zombie Subscribers in Angular](https://www.youtube.com/watch?v=oV8b-rlyMdI)
@@ -103,6 +111,8 @@ In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 
 * ![Article](./Article.png)  [Reusing ngrx/effects in Angular (communicating between reducers)](http://orizens.com/wp/topics/reusing-ngrxeffects-in-angular-communicating-between-reducers/)
 * ![Article](./Article.png)  [Reactive Programming in Angular](https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c)
 In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
+* ![Tutorial](./tutorial.png)  [Implementing a Meta-Reducer in ngrx/store](https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a)
+* ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
 
 ## Component
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
@@ -119,6 +129,8 @@ Kevin summarizes the different possibilities components communicate with another
 Shridharan explains how to use multiple Angular components in a project that is not written in Angular, but a simple JavaScript application.
 * ![Article](./Article.png)  [Angular Component Design: How to Avoid Custom Event Bubbling And Extraneous Properties in the Local Component Tree](http://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/)
 A long and interesting article about component design patterns, the separation of Container Components and Presentational Components, and potential issues with it.
+* ![Article](./Article.png)  [How to create (and use) custom components with Angular 2](http://www.gistia.com/create-use-custom-components-angular-2/)
+
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
@@ -159,9 +171,12 @@ A quick and interesting tip on how to track the size of bundled Angular applicat
 Interesting slides for Raúl's talk at ngVikings 2017 about continuous integration with Angular and Travis CI.
 * ![Article](./Article.png)  [Writing an AOT Compliant Angular Library](http://dbarnes.me/writing-an-aot-compliant-angular-library/)
 Dylan writes about his experiences from creating his own library with shared services and how to make it work with ahead of time compilation.
+* ![Tutorial](./tutorial.png)  [Continuous everything with Angular, Travis CI, Firebase and Greenkeeper](https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826)
+A quick guide by Janez showing you how to use Travis CI for continuous integration, Firebase for hosting and Greenkeeper as an automated dependency management tool with your Angular application.
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
+* ![Article](./Article.png)  [Using Import = Require Syntax With TypeScript 2.2 In Angular 2.4.9](https://www.bennadel.com/blog/3259-using-import-require-syntax-with-typescript-2-2-in-angular-2-4-9.htm)
 
 ## Compiler
 * ![Article](./Article.png)  [Closure Compiler and Http Requests](http://www.syntaxsuccess.com/viewarticle/closure-compiler-and-http-requests)
@@ -208,6 +223,7 @@ And here's another short tip showing how to use Thorsten's small library ngx-ele
 ## Mobile
 * ![Tutorial](./tutorial.png)  [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
+* ![Tutorial](./tutorial.png)  [Ionic 3 Google Plus Authentication Tutorial](https://www.djamware.com/post/59094a2280aca7414e78a63d/ionic-3-google-plus-authentication-tutorial)
 
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
