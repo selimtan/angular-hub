@@ -1,12 +1,12 @@
 ### 25 May, 2017
-* ![Article](./Article.png)  [Angular 2 Best Practices: Change Detector Performance](https://coryrylan.com/blog/angular-accessibility-tips-and-tricks)
+* ![Article](./Article.png)   [Angular 2 Best Practices: Change Detector Performance](https://coryrylan.com/blog/angular-accessibility-tips-and-tricks)
 Accessibility (a11y) is often an overlooked aspect of building web applications, especially JavaScript Single Page Apps. Things like forms, routing and event handling are often easy to get wrong in a JavaScript framework
 * ![Tutorial](./tutorial.png)  [Getting started on Angular 2 with Bootstrap](http://www.gistia.com/getting-started-angular-2-bootstrap/)
 * ![Tutorial](./tutorial.png)  [How to build hybrid app using Ionic 3 and Angular](http://keysandstrokes.info/angular-4-with-ionic-3/)
 * ![Tutorial](./tutorial.png)  [Highlight Text Within a String Using Angular and Regular Expressions](http://developer.telerik.com/topics/web-development/highlight-text-within-string-using-angular-regular-expressions/)
-* ![Article](./Article.png)  [Using the takeUntil RxJS Operator to Manage Subscriptions Declaratively](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
-* ![Article](./Article.png)  [Angular Guards: More than Security](https://medium.com/@amcdnl/angular-guards-more-than-security-c04be35adb00)
-* ![Article](./Article.png)  [Angular 4: Enhancing your Templates With 'else' & 'as'](https://www.dev6.com/angular-4-enhancing-your-templates)
+* ![Article](./Article.png)   [Using the takeUntil RxJS Operator to Manage Subscriptions Declaratively](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
+* ![Article](./Article.png)   [Angular Guards: More than Security](https://medium.com/@amcdnl/angular-guards-more-than-security-c04be35adb00)
+* ![Article](./Article.png)   [Angular 4: Enhancing your Templates With 'else' & 'as'](https://www.dev6.com/angular-4-enhancing-your-templates)
 * ![Tutorial](./tutorial.png)  [Testing Dumb Components in Angular](https://netbasal.com/testing-dumb-components-in-angular-ba90a97a7129)
 * ![Tutorial](./tutorial.png)  [Testing Asynchronous Code with FakeAsync in Angula](https://www.joshmorony.com/testing-asynchronous-code-with-fakeasync-in-angular/)
 * ![Video](./Video.png)  [How To Debug Angular Tests - An Step-by-Step Example of How To Troubleshoot a Failing Test](https://www.youtube.com/watch?v=6D7GI7Whcvc)
