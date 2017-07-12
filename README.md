@@ -281,6 +281,7 @@ Andy writes about unit testing your Angular application with test stubs and mock
 * ![Video](./Video.png)  [How To Debug Angular Tests - An Step-by-Step Example of How To Troubleshoot a Failing Test](https://www.youtube.com/watch?v=6D7GI7Whcvc)
 * ![Article](./Article.png)  [Angular Testing: Using Spies](https://alligator.io/angular/testing-with-spies/)
 * ![Article](./Article.png)  [Introduction to Unit Testing in Angular](https://alligator.io/angular/introduction-unit-testing/)
+* ![Article](./Article.png)  [Testing services with http in angular](https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html)
 
 ## Tooling
 * ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
