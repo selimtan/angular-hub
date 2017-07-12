@@ -60,6 +60,10 @@ The Hierarchical DI is a core feature that Angular leans on a lot. Sometimes, th
 Victor wrote a new part of an article series about upgrading Angular applications. This time he shows you how to support lazy loading in hybrid mode with AngularJS and Angular.
 * ![Article](./Article.png)  [Functional Reactive Angular Revealed](https://blog.dmbcllc.com/functional-reactive-angular-revealed/)
 Humans think sequentially and chunk down. Object-Oriented Programming requires us to think holistically, frequently in parallel, and chunk up.
+* ![Article](./Article.png)  [How to make MultiLingual web applications in Angular](How to make MultiLingual web applications in Angular)
+* ![Tutorial](./tutorial.png)  [Building an Angular Video Player with Videogular](https://www.toptal.com/angular-js/angular-video-player-videogular)
+* ![Article](./Article.png)  [You may need Protractor for more than testing your Angular 4 app…](https://medium.com/@TuiZ/you-may-need-protractor-for-more-than-testing-your-angular-4-app-e08533046e5d)
+Interesting piece by Fabien showing you how to use Protractor to catch issues with NgZone and improve the performance of your application.
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -73,6 +77,11 @@ Cory shows how to use a new, special ngIf and ngElse syntax to bind async data t
 In this long article Victor explains everything you need to know about the mechanics of the NgUpgrade library.
 * ![Article](./Article.png)  [Angular 4: Enhancing your Templates With 'else' & 'as'](https://www.dev6.com/angular-4-enhancing-your-templates)
 * ![Tutorial](./tutorial.png)  [Create directive for showing error message in form with Angular](https://hackernoon.com/create-reuseable-validation-directive-in-angualr-2-dcb0b0df2ce8)
+* ![Video](./Video.png)  [Show a loading indicator in Angular using ngIf/else, the as keyword and the async pipe](https://egghead.io/lessons/show-a-loading-indicator-in-angular-using-ngif-else-the-as-keyword-and-the-async-pipe)
+* ![Video](./Video.png)  [Learn Several Angular Advanced Features - ng-template, ng-container and ngTemplateOutle](https://www.youtube.com/watch?v=HVxvLifo0eI)
+* ![Article](./Article.png)  [Leverage Structural Directives to Create Powerful Components in Angular](https://netbasal.com/leverage-structural-directives-to-create-powerful-components-in-angular-c95e3cfde789)
+* ![Article](./Article.png)  [Enhanced ngIf and ngFor in Angular version 4.0.0](https://juristr.com/blog/2017/06/new-enhanced-ngIf-and-ngFor/)
+Juri shares how the enhanced *ngIf and *ngFor directives of Angular version 4.0.0 make working with observables more convenient.
 
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -192,6 +201,9 @@ Netanel takes a look at component communication and event emitters in an Angular
 * ![Article](./Article.png)  [Implementing Event Modifiers in Angular](https://netbasal.com/implementing-event-modifiers-in-angular-87e1a07969ce)
 In this article Netanel shows how he implemented Event modifiers, a feature from the Vue library, in Angular.
 
+## Dependency Injection
+* ![Article](./Article.png)  [Magic Of Dependency Injection in Angular](https://blog.knoldus.com/2017/06/15/magic-of-dependency-injection-in-angular-2/)
+
 ## DOM Manipulation
 * ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
 The new Angular version runs on different platforms — in a browser, on a mobile platform or inside a web worker. So a level of abstraction is required to stand between platform specific API and the framework interfaces.
@@ -231,6 +243,7 @@ A quick guide by Janez showing you how to use Travis CI for continuous integrati
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
 * ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module](http://blog.arroyolabs.com/2017/05/converting-your-angular-cli-application-into-a-npm-module/)
 * ![Article](./Article.png)  [Angular Build with Webpack and Babili](http://www.syntaxsuccess.com/viewarticle/angular-build-with-webpack-and-babili-)
+* ![Article](./Article.png)  [An Angular 2 Webpack setup for development and production](https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24)
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
@@ -255,6 +268,8 @@ Andy writes about unit testing your Angular application with test stubs and mock
 * ![Tutorial](./tutorial.png)  [Testing Dumb Components in Angular](https://netbasal.com/testing-dumb-components-in-angular-ba90a97a7129)
 * ![Tutorial](./tutorial.png)  [Testing Asynchronous Code with FakeAsync in Angula](https://www.joshmorony.com/testing-asynchronous-code-with-fakeasync-in-angular/)
 * ![Video](./Video.png)  [How To Debug Angular Tests - An Step-by-Step Example of How To Troubleshoot a Failing Test](https://www.youtube.com/watch?v=6D7GI7Whcvc)
+* ![Article](./Article.png)  [Angular Testing: Using Spies](https://alligator.io/angular/testing-with-spies/)
+* ![Article](./Article.png)  [Introduction to Unit Testing in Angular](https://alligator.io/angular/introduction-unit-testing/)
 
 ## Tooling
 * ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
@@ -304,6 +319,10 @@ This is a longer, but truly interesting article explaining what exactly happens 
 * ![Tutorial](./tutorial.png)  [Building a Canvas component with Free Hand drawing using RxJS and Angular](https://medium.com/@tarik.nzl/creating-a-canvas-component-with-free-hand-drawing-with-rxjs-and-angular-61279f577415)
 Short but impressive tutorial by Tarik explaining how to create a canvas element that allows free hand drawings with RxJS. 
 * ![Tutorial](./tutorial.png)  [Build a simple Emoji Chrome Extension with Angular CLI](https://medium.com/@_JoshSommer/build-a-simple-emoji-chrome-extension-with-angular-cli-84937a1ca640)
+* ![Article](./Article.png)  [Angular Architecture Paper Cards](https://medium.com/@wingsuitist/angular-architecture-paper-cards-2549f59e4d0d)
+As we boot new developers into Angular we were looking for haptic ways to visualize and form an angular app as well as it’s architecture. And what’s better for that, than some cards to print out and play with
+* ![Tutorial](./tutorial.png)  [Real World App - Part 12: Cloud functions for Firebase](https://blog.realworldfullstack.io/real-world-app-part-12-cloud-functions-for-firebase-8359787e26f3)
+* ![Tutorial](./tutorial.png)  [How To Read QR Codes In Angular?](https://www.techiediaries.com/read-qrcodes-angular/)
 
 ## Angular Material
 * ![Article](./Article.png)  [Custom Themes With Angular Material](https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html)
