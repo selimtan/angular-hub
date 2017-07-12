@@ -1,3 +1,20 @@
+### 01 Jun, 2017
+* ![Tutorial](./tutorial.png)  [How To Architect Enterprise Single Page Applications (SPA)](https://www.logicroom.co/how-to-architect-enterprise-single-page-applications-part1/)
+Code is complex. When we write code we don’t know beforehand what we are trying to do. We get a problem, we break it down into a number of steps and we begin to write each line, making mistakes, correcting, adjusting, making more mistakes (swearing) and eventually what we see in front of us hopefully does what we intended it to do
+* ![Article](./Article.png)  [Don’t use hidden attribute with AngularJS 2](https://medium.com/@dormoshe/angulars-backyard-the-resolving-of-component-dependencies-2015b40e5bd1)
+The Hierarchical DI is a core feature that Angular leans on a lot. Sometimes, the resolution process looks complicated and long.
+* ![Article](./Article.png)  [Introducing AngularSpree – Open sourcing E-Commerce front-end application in Angular](https://medium.com/aviabird/introducing-angularspree-ad55bea64d6c)
+* ![Video](./Video.png)  [Learn The Angular Host Context CSS Selector, See the CLI SAAS integration In Action](https://www.youtube.com/watch?v=zQNAp1WmxLM)
+* ![Article](./Article.png)  [How to use a service inside another service in Angular 2?](http://articles.hadokoa.net/2017/05/27/use-utility-service-inside-another-service-angular-2/)
+* ![Article](./Article.png)  [Querying a Normalized State with RxJS in Angular](https://netbasal.com/querying-a-normalized-state-with-rxjs-in-angular-71ecd7ca25b4)
+* ![Tutorial](./tutorial.png)  [Drag & Drop in Your Angular Apps With ng2-dragula](https://alligator.io/angular/drag-drop-ng2-dragula/)
+* ![Article](./Article.png)  [Reactive apps with Angular & ngrx](http://blog.brakmic.com/reactive-apps-with-angular-ngrx/)
+* ![Tutorial](./tutorial.png)  [Create directive for showing error message in form with Angular](https://hackernoon.com/create-reuseable-validation-directive-in-angualr-2-dcb0b0df2ce8)
+* ![Article](./Article.png)  [Here is what you need to know about dynamic components in Angular](https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+* ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module](http://blog.arroyolabs.com/2017/05/converting-your-angular-cli-application-into-a-npm-module/)
+* ![Article](./Article.png)  [Using NgUpgrade Like a Pro: Lazy Loading AngularJS Applications](https://blog.nrwl.io/using-ngupgrade-like-a-pro-lazy-loading-angularjs-applications-469819f5c86)
+Victor wrote a new part of an article series about upgrading Angular applications. This time he shows you how to support lazy loading in hybrid mode with AngularJS and Angular.
+
 ### 25 May, 2017
 * ![Article](./Article.png)   [Angular 2 Best Practices: Change Detector Performance](https://coryrylan.com/blog/angular-accessibility-tips-and-tricks)
 Accessibility (a11y) is often an overlooked aspect of building web applications, especially JavaScript Single Page Apps. Things like forms, routing and event handling are often easy to get wrong in a JavaScript framework
