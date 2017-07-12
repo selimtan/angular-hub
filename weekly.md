@@ -4,7 +4,7 @@
 * ![Article](./Article.png)  [The Ultimate Angular CLI Reference Guide](https://www.sitepoint.com/ultimate-angular-cli-reference/)
 * ![Tutorial](./tutorial.png)  [Angular 2/4 - Router Animation Tutorial & Example](http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example)
 * ![Tutorial](./tutorial.png)  [Build a simple Emoji Chrome Extension with Angular CLI](https://medium.com/@_JoshSommer/build-a-simple-emoji-chrome-extension-with-angular-cli-84937a1ca640)
-* ![Article](./Article.png)[Removing Roadblocks in the Move to Angular 4](https://www.lucidchart.com/techblog/2017/04/20/removing-roadblocks-move-angular-4/)
+* ![Article](./Article.png)  [Removing Roadblocks in the Move to Angular 4](https://www.lucidchart.com/techblog/2017/04/20/removing-roadblocks-move-angular-4/)
 * ![Tutorial](./tutorial.png)  [Unit Test Your ngrx/effects in Angular](https://netbasal.com/unit-test-your-ngrx-effects-in-angular-1bf2142dd459)
 * ![Article](./Article.png)  [7 Angular Tools That You Should Consider](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
 * ![Article](./Article.png)  [Reusing ngrx/effects in Angular (communicating between reducers)](http://orizens.com/wp/topics/reusing-ngrxeffects-in-angular-communicating-between-reducers/)
