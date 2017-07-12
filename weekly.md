@@ -1,3 +1,29 @@
+### 20 Apr, 2017
+* ![Video](./Video.png)  [Angular 2 + Node.js - Build Socket Chat Application](https://www.youtube.com/watch?v=yXyWSCxmtTo)
+Learn how to create a chat app using Angular and Node.js. We'll be using socket.io, express.js on the server, along with gulp and Angular
+* ![Tutorial](./tutorial.png)  [Angular Filter Checkboxes](https://long2know.com/2017/04/angular-filter-checkboxes/)
+A quick tutorial about using checkboxes to filter lists.
+* [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
+A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
+* ![Article](./Article.png)  [Implementing Event Modifiers in Angular](https://netbasal.com/implementing-event-modifiers-in-angular-87e1a07969ce)
+In this article Netanel shows how he implemented Event modifiers, a feature from the Vue library, in Angular.
+
+
+### 13 Apr, 2017
+* ![Article](./Article.png)  [What I have learned using ngrx/Redux with Angular](https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661)
+* ![Article](./Article.png)  [Understanding Angular modules (NgModule) and their scopes](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
+The article explains what NgModules are, when you should import NgModules, and how to manage SharedModules.
+* ![Article](./Article.png)  [Angular CLI: multiple apps in the same project ](https://yakovfain.com/2017/04/06/angular-cli-multiple-apps-in-the-same-project/)
+And here's another brief tip: Yakov shares how to modify the Angular CLI to work with an Angular project that has multiple apps.
+* ![Article](./Article.png)  [Angular 2 with Array.include and Object.entries](https://medium.com/@juliapassynkova/angular-2-with-array-include-and-object-entries-a27821d1fed9)
+A quick tip on how to use Array.include and Object.entries in your Angular 
+* ![Article](./Article.png)  [Using Angular Components in a Non-Angular App](https://www.lucidchart.com/techblog/2017/04/10/using-angular-2-components-in-a-non-angular-app/)
+Shridharan explains how to use multiple Angular components in a project that is not written in Angular, but a simple JavaScript application.
+* ![Tutorial](./tutorial.png)  [File Uploads in Angular with a Node and Hapi Backend](https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend)
+Jecelyn shows how to create a drag and drop image uploader for single and multiple files with Angular and Hapi.js.
+* ![Article](./Article.png)  [Using Stubs and Mocks in Jasmine to test your Angular code](http://blog.arroyolabs.com/2017/04/angular-2-unit-test-mocks-stubs/)
+Andy writes about unit testing your Angular application with test stubs and mock objects by using Jasmine.
+
 ### 06 Apr, 2017
 * ![Article](./Article.png)  [Using Pipes in Angular](http://developer.telerik.com/topics/web-development/using-pipes-angular-2/)
 Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2+.
