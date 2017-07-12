@@ -40,6 +40,10 @@ Learn how to create a chat app using Angular and Node.js. We'll be using socket.
 You can leverage decorators in your apps and create powerful things with them. Decorators are not only for frameworks or libraries, so be creative and start using them.
 * ![Video](./Video.png)  [Creating and Maintaining Documentation](https://www.youtube.com/watch?v=iwA6vc3gZgw)
 * ![Article](./Article.png)  [Custom Preloading and Lazy Loading Strategies with Angular](https://coryrylan.com/blog/custom-preloading-and-lazy-loading-strategies-with-angular)
+* ![Article](./Article.png)  [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
+* ![Article](./Article.png)  [Angular Model Pattern](https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87)
+* ![Video](./Video.png)  [Single-Page Applications with Angular 2 and ASP.NET Core](https://www.youtube.com/watch?v=qbi1Kq9eXLg)
+
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -72,6 +76,8 @@ A quick tutorial about how to render a list with multiple checkboxes by using re
 A quick guide about how to use reactive forms to define a custom form validator. If you like the article, you might want to check out their article "Reactive Forms in Angular: An Introduction".
 * ![Tutorial](./tutorial.png)  [Angular Filter Checkboxes](https://long2know.com/2017/04/angular-filter-checkboxes/)
 A quick tutorial about using checkboxes to filter lists.
+* ![Article](./Article.png)  [Component architecture recipes for Angular’s reactive forms](https://toddmotto.com/component-architecture-reactive-forms-angular)
+In this long article Todd shares some patterns for using a component architecture with reactive forms.
 
 
 ## Pipes
@@ -81,12 +87,15 @@ A quick tutorial showing how to create a custom pipe for sorting tables.
 Christoph shares three special AsyncPipe features, e.g. how to use the AsyncPipe to subscribe to observables that emit multiple values.
 * ![Article](./Article.png)  [Using Pipes in Angular](http://developer.telerik.com/topics/web-development/using-pipes-angular-2/)
 Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2+.
+
 ## Services
 * ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
 Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
+* ![Tutorial](./tutorial.png)  [Angular Singleton Service and a Loading Indicator](https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722)
 
 ## Routing
 * ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
+* ![Tutorial](./tutorial.png)  [Angular Router: Defining Child Routes](https://alligator.io/angular/angular-router-child-routes/)
 
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
@@ -97,6 +106,10 @@ Wojciech shows what Functional Reactive Programming (FRP) is and how you can use
 * ![Tutorial](./tutorial.png)  [Angular 2 — TwitchTV : Dynamic Search Result using Angular’s HTTP Service + RxJS Observables](https://medium.com/@a_reza88/angular-2-twitchtv-dynamic-search-result-using-angulars-http-service-rxjs-observables-42b9c55a17b8#.ayb6jy9ga)
 In this tutorial you'll learn how to use Angular's HTTP service to create a Twitch Search application.
 * ![Article](./Article.png)  [When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
+* ![Article](./Article.png)  [Deep Dive Into The RxJs switchMap Operator - How Does it Work ? A Less Well-Known Use Case (selector functions)](http://blog.angular-university.io/rxjs-switchmap-operator/)
+This is one of those few operators that we will probably use in just about any application that we build
+* [RxJS Subjects for human beings](https://netbasal.com/rxjs-subjects-for-human-beings-7807818d4e4d)
+Let’s look at the facts. Subject is both an Observable and Observer.
 
 ## State Management
 * ![Article](./Article.png)  [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
@@ -163,6 +176,10 @@ In this article Pascal writes about using the NgZones API to increase the perfor
 * ![Article](./Article.png)  [Analyzing bundle size with the Angular CLI and Webpack](https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack)
 A quick and interesting tip on how to track the size of bundled Angular applications with the Webpack bundle analyzer.
 
+## Authentication
+* ![Tutorial](./tutorial.png)  [User Authentication with Angular and ASP.NET Core](https://fullstackmark.com/post/10/user-authentication-with-angular-and-asp-net-core)
+A super detailed step-by-step tutorial showing you how to add user authentication to an Angular application powered by an ASP.NET Core backend API.
+
 ## Production/Deployment
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
 * ![Article](./Article.png)  [How to host your Angular 2 application in AWS with S3](https://www.johnlouros.com/blog/host-your-angular-app-in-aws-s3)
@@ -210,6 +227,7 @@ Most analytics providers do not automatically track the browser’s navigation h
 And here's another brief tip: Yakov shares how to modify the Angular CLI to work with an Angular project that has multiple apps.
 * ![Article](./Article.png)  [The Ultimate Angular CLI Reference Guide](https://www.sitepoint.com/ultimate-angular-cli-reference/)
 * ![Article](./Article.png)  [7 Angular Tools That You Should Consider](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
+* ![Tutorial](./tutorial.png)  [angular-tslint-rules: a configuration preset for both TSLint & codelyzer](https://medium.com/burak-tasci/angular-tslint-rules-a-configuration-preset-for-both-tslint-codelyzer-8b5fa1455908)
 
 
 ## Backend
