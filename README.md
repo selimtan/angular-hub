@@ -43,7 +43,10 @@ You can leverage decorators in your apps and create powerful things with them. D
 * ![Article](./Article.png)  [Understanding Change Detection Strategy in Angular](https://alligator.io/angular/change-detection-strategy/)
 * ![Article](./Article.png)  [Angular Model Pattern](https://medium.com/@tomastrajan/model-pattern-for-angular-state-management-6cb4f0bfed87)
 * ![Video](./Video.png)  [Single-Page Applications with Angular 2 and ASP.NET Core](https://www.youtube.com/watch?v=qbi1Kq9eXLg)
-
+* ![Tutorial](./tutorial.png)  [Create the toJSON operator in Angular](https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21)
+* ![Tutorial](./tutorial.png)  [Setting Default Headers in Angular](https://blog.alex-miller.co/angular/2017/05/13/default-headers-in-angular.html)
+* ![Article](./Article.png)  [Hook into Angular Initialization Process](https://hackernoon.com/hook-into-angular-initialization-process-add41a6b7e)
+For shares how to use the APP_INITIALIZER token to run your code before the application was loaded and shows other use cases for the injection token.
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -52,6 +55,9 @@ In this extensive article Todd explores the built-in ngFor directive and demonst
 Cory shows how to use a new, special ngIf and ngElse syntax to bind async data to an Angular template.
 * ![Article](./Article.png)  [NgIf Else lands in Angular 2.x+/4.0](https://medium.com/@ashishait/ngif-else-lands-in-angular-2-0-a242940e54ff)
 * ![Article](./Article.png)  [NgUpgrade with Lazy Loading](http://www.syntaxsuccess.com/viewarticle/ngupgrade-with-lazy-loading)
+* ![Article](./Article.png)  [Angular Components and Directives - a Beginner-Friendly Introduction: Learn How To Extend The Browser And Build Your Own HTML Tags](http://blog.angular-university.io/angular-components-and-directives-for-beginners/)
+* ![Article](./Article.png)  [NgUpgrade in Depth](https://blog.nrwl.io/ngupgrade-in-depth-436a52298a00)
+In this long article Victor explains everything you need to know about the mechanics of the NgUpgrade library.
 
 ## Templates
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
@@ -96,6 +102,7 @@ Todd compares the .service() method of Angular 1.x with Angular 2+ services. The
 ## Routing
 * ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
 * ![Tutorial](./tutorial.png)  [Angular Router: Defining Child Routes](https://alligator.io/angular/angular-router-child-routes/)
+* ![Tutorial](./tutorial.png)  [Implementing Auth Guard with Componentless Route in Angular](https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77)
 
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
@@ -110,6 +117,9 @@ In this tutorial you'll learn how to use Angular's HTTP service to create a Twit
 This is one of those few operators that we will probably use in just about any application that we build
 * ![Article](./Article.png)  [RxJS Subjects for human beings](https://netbasal.com/rxjs-subjects-for-human-beings-7807818d4e4d)
 Let’s look at the facts. Subject is both an Observable and Observer.
+* ![Article](./Article.png)  [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
+RxJS is an incredible tool for reactive programming, and today we’re going to dive a little deeper into what Observables and observers are - as well as learn how to create our own operators.
+
 
 ## State Management
 * ![Article](./Article.png)  [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
@@ -143,7 +153,8 @@ Shridharan explains how to use multiple Angular components in a project that is 
 * ![Article](./Article.png)  [Angular Component Design: How to Avoid Custom Event Bubbling And Extraneous Properties in the Local Component Tree](http://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/)
 A long and interesting article about component design patterns, the separation of Container Components and Presentational Components, and potential issues with it.
 * ![Article](./Article.png)  [How to create (and use) custom components with Angular 2](http://www.gistia.com/create-use-custom-components-angular-2/)
-
+* ![Video](./Video.png)  [Component API Design - How To Make Simpler and More Reusable Components Using ng-content](https://www.youtube.com/watch?v=vK22JIwWZPQ)
+* ![Tutorial](./tutorial.png)  [Building Material Themed Components](http://devboosts.com/2017/05/15/building-material-themed-components/)
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
