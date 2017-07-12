@@ -1,3 +1,22 @@
+### 25 May, 2017
+* ![Article](./Article.png)  [Angular 2 Best Practices: Change Detector Performance](https://coryrylan.com/blog/angular-accessibility-tips-and-tricks)
+Accessibility (a11y) is often an overlooked aspect of building web applications, especially JavaScript Single Page Apps. Things like forms, routing and event handling are often easy to get wrong in a JavaScript framework
+* ![Tutorial](./tutorial.png)  [Getting started on Angular 2 with Bootstrap](http://www.gistia.com/getting-started-angular-2-bootstrap/)
+* ![Tutorial](./tutorial.png)  [How to build hybrid app using Ionic 3 and Angular](http://keysandstrokes.info/angular-4-with-ionic-3/)
+* ![Tutorial](./tutorial.png)  [Highlight Text Within a String Using Angular and Regular Expressions](http://developer.telerik.com/topics/web-development/highlight-text-within-string-using-angular-regular-expressions/)
+* ![Article](./Article.png)  [Using the takeUntil RxJS Operator to Manage Subscriptions Declaratively](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
+* ![Article](./Article.png)  [Angular Guards: More than Security](https://medium.com/@amcdnl/angular-guards-more-than-security-c04be35adb00)
+* ![Article](./Article.png)  [Angular 4: Enhancing your Templates With 'else' & 'as'](https://www.dev6.com/angular-4-enhancing-your-templates)
+* ![Tutorial](./tutorial.png)  [Testing Dumb Components in Angular](https://netbasal.com/testing-dumb-components-in-angular-ba90a97a7129)
+* ![Tutorial](./tutorial.png)  [Testing Asynchronous Code with FakeAsync in Angula](https://www.joshmorony.com/testing-asynchronous-code-with-fakeasync-in-angular/)
+* ![Video](./Video.png)  [How To Debug Angular Tests - An Step-by-Step Example of How To Troubleshoot a Failing Test](https://www.youtube.com/watch?v=6D7GI7Whcvc)
+* ![Article](./Article.png)  [How do Protractor and Angular synchronize?](http://loki2302.me/2017/05/19/How-do-Protractor-and-Angular-synchronize/)
+* ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
+* ![Tutorial](./tutorial.png)  [How to create library for Angular and publish to npm from scratch](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
+This is an interesting and in-depth article by Elec about what JavaScript modules are, and how you can create your own modules with Angular and publish them to npm
+* ![Article](./Article.png)  [Custom Themes With Angular Material](https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html)
+In this long guide Pascal explains in details how theming works with Angular Material: how to use pre-built themes, and how to create your own custom themes
+
 ### 18 May, 2017
 * ![Article](./Article.png)  [RxJS: Observables, observers and operators introduction](https://toddmotto.com/rxjs-observables-observers-operators)
 RxJS is an incredible tool for reactive programming, and today we’re going to dive a little deeper into what Observables and observers are - as well as learn how to create our own operators.
