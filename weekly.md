@@ -286,6 +286,7 @@ A guide about using deepstream.io and Angular to build a real-time chat applicat
 Gerard shows different options to style Angular components and directives.
 * ![Article](./Article.png)  [What is Unidirectional Data Flow ? Learn How the Angular Development Mode Works, why it's important to use it and how to Troubleshoot it](http://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
 This is a longer, but truly interesting article explaining what exactly happens under the hood when using Angular in development mode.
+* ![Article](./Article.png)  [Testing services with http in angular](https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html)
 
 ### 16 Feb, 2017
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
