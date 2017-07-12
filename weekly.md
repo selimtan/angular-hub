@@ -1,3 +1,19 @@
+### 06 Apr, 2017
+* ![Article](./Article.png)  [Using Pipes in Angular](http://developer.telerik.com/topics/web-development/using-pipes-angular-2/)
+Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2+.
+* ![Tutorial](./tutorial.png)  [Reactive Forms in Angular: Creating a Custom Validator](https://alligator.io/angular/reactive-forms-custom-validator/)
+A quick guide about how to use reactive forms to define a custom form validator. If you like the article, you might want to check out their article "Reactive Forms in Angular: An Introduction".
+* ![Article](./Article.png)  [Exploring The New Meta Service in Angular Version 4](https://netbasal.com/exploring-the-new-meta-service-in-angular-version-4-b5ba2403d3e6)
+* ![Tutorial](./tutorial.png)  [UI state management with Redux in Angular 2](https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-2)
+In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 to manage user interface states with Redux.
+* ![Tutorial](./tutorial.png)  [Testing Angular Faster With Jest](https://www.xfive.co/blog/testing-angular-faster-jest/)
+Michal shows how to use Jest and Jasmine for unit testing your Angular application, instead of Karma and Jasmine.
+* ![Article](./Article.png)  [NgIf Else lands in Angular 2.x+/4.0](https://medium.com/@ashishait/ngif-else-lands-in-angular-2-0-a242940e54ff)
+* ![Article](./Article.png)  [Writing an AOT Compliant Angular Library](http://dbarnes.me/writing-an-aot-compliant-angular-library/)
+Dylan writes about his experiences from creating his own library with shared services and how to make it work with ahead of time compilation.
+* ![Tutorial](./tutorial.png)  [Building a Canvas component with Free Hand drawing using RxJS and Angular](https://medium.com/@tarik.nzl/creating-a-canvas-component-with-free-hand-drawing-with-rxjs-and-angular-61279f577415)
+Short but impressive tutorial by Tarik explaining how to create a canvas element that allows free hand drawings with RxJS. 
+
 ### 30 March, 2017
 * [How does Angular teach you to be a better a Software Engineer](https://blog.ngconsultant.io/learn-angular-software-enginner-patterns-architecture-4836ef304b40)
 Opinionated framework like Angular (other frameworks too for that matter, remember React is a library) can teach you many of the industry’s best practices and help you to adopt mindset necessary to successfully implement nontrivial web applications.
@@ -11,6 +27,8 @@ Kevin summarizes the different possibilities components communicate with another
 Michal explains how to wrap the slick-carousel jQuery plugin into an Angular component.
 * ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
 Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
+* ![Article](./Article.png)  [Create an hierarchical style architecture](https://medium.com/@kmathy/angular-create-an-hierarchical-style-architecture-97aa7489cc39)
+A short article about creating a better SCSS architecture by using the /deep/ selector.
 
 ### 24 March, 2017
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
