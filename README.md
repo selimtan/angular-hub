@@ -58,6 +58,8 @@ The Hierarchical DI is a core feature that Angular leans on a lot. Sometimes, th
 * ![Tutorial](./tutorial.png)  [Drag & Drop in Your Angular Apps With ng2-dragula](https://alligator.io/angular/drag-drop-ng2-dragula/)
 * ![Article](./Article.png)  [Using NgUpgrade Like a Pro: Lazy Loading AngularJS Applications](https://blog.nrwl.io/using-ngupgrade-like-a-pro-lazy-loading-angularjs-applications-469819f5c86)
 Victor wrote a new part of an article series about upgrading Angular applications. This time he shows you how to support lazy loading in hybrid mode with AngularJS and Angular.
+* ![Article](./Article.png)  [Functional Reactive Angular Revealed](https://blog.dmbcllc.com/functional-reactive-angular-revealed/)
+Humans think sequentially and chunk down. Object-Oriented Programming requires us to think holistically, frequently in parallel, and chunk up.
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -98,7 +100,7 @@ A quick guide about how to use reactive forms to define a custom form validator.
 A quick tutorial about using checkboxes to filter lists.
 * ![Article](./Article.png)  [Component architecture recipes for Angular’s reactive forms](https://toddmotto.com/component-architecture-reactive-forms-angular)
 In this long article Todd shares some patterns for using a component architecture with reactive forms.
-
+* ![Tutorial](./tutorial.png)  [How to Integrate reCAPTCHA in your Angular Forms](https://netbasal.com/how-to-integrate-recaptcha-in-your-angular-forms-400c43344d5c)
 
 ## Pipes
 * ![Tutorial](./tutorial.png)  [Sorting with Pipes in Angular](https://blog.xmltravelgate.com/sorting-with-pipes-in-angular-2-7370b0839468#.bpnax0mw6)
@@ -119,6 +121,8 @@ Todd compares the .service() method of Angular 1.x with Angular 2+ services. The
 * ![Tutorial](./tutorial.png)  [Angular Router: Defining Child Routes](https://alligator.io/angular/angular-router-child-routes/)
 * ![Tutorial](./tutorial.png)  [Implementing Auth Guard with Componentless Route in Angular](https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77)
 * ![Article](./Article.png)  [Angular Guards: More than Security](https://medium.com/@amcdnl/angular-guards-more-than-security-c04be35adb00)
+* ![Article](./Article.png)  [How can we default to a route in Angular?](http://articles.hadokoa.net/2017/06/06/can-default-route-angular/)
+* ![Article](./Article.png)  [Angular Router: Query Parameters](https://alligator.io/angular/query-parameters/)
 
 ## RxJs
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
@@ -137,6 +141,7 @@ Let’s look at the facts. Subject is both an Observable and Observer.
 RxJS is an incredible tool for reactive programming, and today we’re going to dive a little deeper into what Observables and observers are - as well as learn how to create our own operators.
 * ![Article](./Article.png)  [Using the takeUntil RxJS Operator to Manage Subscriptions Declaratively](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
 * ![Article](./Article.png)  [Querying a Normalized State with RxJS in Angular](https://netbasal.com/querying-a-normalized-state-with-rxjs-in-angular-71ecd7ca25b4)
+* ![Tutorial](./tutorial.png)  [Angular and RxJS: Create an API Service to Talk to a REST Backend](https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/)
 
 
 ## State Management
@@ -175,6 +180,7 @@ A long and interesting article about component design patterns, the separation o
 * ![Video](./Video.png)  [Component API Design - How To Make Simpler and More Reusable Components Using ng-content](https://www.youtube.com/watch?v=vK22JIwWZPQ)
 * ![Tutorial](./tutorial.png)  [Building Material Themed Components](http://devboosts.com/2017/05/15/building-material-themed-components/)
 * ![Article](./Article.png)  [Here is what you need to know about dynamic components in Angular](https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+* ![Video](./Video.png)  [Learn Angular Template References And How To Configure a Component With Partial Templates](https://www.youtube.com/watch?v=T1es5K09vVI)
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
@@ -194,6 +200,7 @@ The new Angular version runs on different platforms — in a browser, on a mobil
 * ![Article](./Article.png)  [From ngAnimate to Angular 2 animate](http://developer.telerik.com/topics/web-development/nganimate-angular-2-animate/)
 Lukas compares the ngAnimate module from Angular 1.x with the way animations work in Angular 2+. If you like these kind of articles, you will all like "From ng-switch to ngSwitch" by Todd Motto.
 * ![Tutorial](./tutorial.png)  [Angular 2/4 - Router Animation Tutorial & Example](http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example)
+* ![Tutorial](./tutorial.png)  [Animated slide panel with Angular](https://medium.com/@asm/animated-slide-panel-with-angular-e985ad646f9)
 
 ## Peformance
 * ![Article](./Article.png)  [Making your Angular apps fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
@@ -223,6 +230,7 @@ Dylan writes about his experiences from creating his own library with shared ser
 A quick guide by Janez showing you how to use Travis CI for continuous integration, Firebase for hosting and Greenkeeper as an automated dependency management tool with your Angular application.
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
 * ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module](http://blog.arroyolabs.com/2017/05/converting-your-angular-cli-application-into-a-npm-module/)
+* ![Article](./Article.png)  [Angular Build with Webpack and Babili](http://www.syntaxsuccess.com/viewarticle/angular-build-with-webpack-and-babili-)
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
@@ -278,6 +286,8 @@ And here's another short tip showing how to use Thorsten's small library ngx-ele
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
 * ![Tutorial](./tutorial.png)  [Ionic 3 Google Plus Authentication Tutorial](https://www.djamware.com/post/59094a2280aca7414e78a63d/ionic-3-google-plus-authentication-tutorial)
 * ![Tutorial](./tutorial.png)  [How to build hybrid app using Ionic 3 and Angular](http://keysandstrokes.info/angular-4-with-ionic-3/)
+* ![Article](./Article.png)  [Form Validation in a NativeScript Angular Mobile Application](http://developer.telerik.com/products/nativescript/form-validation-nativescript-angular-mobile-application/)
+Nic shows two ways how to do a client-side validation for NativeScript forms with Angular: by using built-in Angular validators, and by writing custom directives for further validation
 
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
@@ -298,6 +308,9 @@ Short but impressive tutorial by Tarik explaining how to create a canvas element
 ## Angular Material
 * ![Article](./Article.png)  [Custom Themes With Angular Material](https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html)
 In this long guide Pascal explains in details how theming works with Angular Material: how to use pre-built themes, and how to create your own custom themes
+* ![Article](./Article.png)  [The complete guide to Angular Material Themes](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
+In this article Tomas explains why you should make use of themes and how to create them with the Angular Material library
+
 ## Library
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
@@ -317,3 +330,4 @@ On this YouTube playlist are the talks from AngularCamp 2016, e.g. "Angular 2 Se
 * ![Video](./Video.png)  [ngVikings 2017 Recordings](https://opbeat.com/community/events/ngvikings-2017/)
 * ![Video](./Video.png)  [NG-NL 2017](https://www.youtube.com/playlist?list=PLQi8NNYCH8TDFnOhjrIsjZGMD6Ks8SQid)
 This is a playlist with talks from NG-NL 2017, which happened in March. Make sure to watch them all :)
+* ![Video](./Video.png)  [Angular Advanced - A Video List About Several Advanced Angular Topics](http://blog.angular-university.io/angular-advanced-course/)
