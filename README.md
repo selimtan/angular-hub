@@ -64,6 +64,9 @@ Humans think sequentially and chunk down. Object-Oriented Programming requires u
 * ![Tutorial](./tutorial.png)  [Building an Angular Video Player with Videogular](https://www.toptal.com/angular-js/angular-video-player-videogular)
 * ![Article](./Article.png)  [You may need Protractor for more than testing your Angular 4 app…](https://medium.com/@TuiZ/you-may-need-protractor-for-more-than-testing-your-angular-4-app-e08533046e5d)
 Interesting piece by Fabien showing you how to use Protractor to catch issues with NgZone and improve the performance of your application.
+* ![Article](./Article.png)  [Common mistakes with Angular Universal](https://malcoded.com/posts/server-rendering-pitfalls)
+* ![Article](./Article.png)  [PWAs with Angular: Being Reliable](https://dev.to/michaelsolati/pwas-with-angular-beingreliable)
+
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -124,6 +127,7 @@ Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2
 Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
 * ![Tutorial](./tutorial.png)  [Angular Singleton Service and a Loading Indicator](https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722)
 * ![Article](./Article.png)  [How to use a service inside another service in Angular 2?](http://articles.hadokoa.net/2017/05/27/use-utility-service-inside-another-service-angular-2/)
+* ![Article](./Article.png)  [Angular Service Workers](https://pascalprecht.github.io/slides/angular-and-service-workers/#/)
 
 ## Routing
 * ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
@@ -190,10 +194,12 @@ A long and interesting article about component design patterns, the separation o
 * ![Tutorial](./tutorial.png)  [Building Material Themed Components](http://devboosts.com/2017/05/15/building-material-themed-components/)
 * ![Article](./Article.png)  [Here is what you need to know about dynamic components in Angular](https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
 * ![Video](./Video.png)  [Learn Angular Template References And How To Configure a Component With Partial Templates](https://www.youtube.com/watch?v=T1es5K09vVI)
+* ![Article](./Article.png)  [Here is why you will not find components inside Angular](https://hackernoon.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
 
 ## Content Projection
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
 Juri compares the concepts behind transclusion in Angular 1.x with the content projection mechanisms of Angular 2+.
+* ![Article](./Article.png)  [Angular ng-content and Content Projection: A Complete Guide - How To Use ng-content To Improve Component API Design](http://blog.angular-university.io/angular-ng-content/)
 
 ## Events
 * ![Article](./Article.png)  [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c#.lidun43mv)
@@ -207,12 +213,16 @@ In this article Netanel shows how he implemented Event modifiers, a feature from
 ## DOM Manipulation
 * ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
 The new Angular version runs on different platforms — in a browser, on a mobile platform or inside a web worker. So a level of abstraction is required to stand between platform specific API and the framework interfaces.
+* ![Article](./Article.png)  [The mechanics of DOM updates in AngularAngular 2 Best Practices: Change Detector Performance](https://hackernoon.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
 
 ## Animation
 * ![Article](./Article.png)  [From ngAnimate to Angular 2 animate](http://developer.telerik.com/topics/web-development/nganimate-angular-2-animate/)
 Lukas compares the ngAnimate module from Angular 1.x with the way animations work in Angular 2+. If you like these kind of articles, you will all like "From ng-switch to ngSwitch" by Todd Motto.
 * ![Tutorial](./tutorial.png)  [Angular 2/4 - Router Animation Tutorial & Example](http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example)
 * ![Tutorial](./tutorial.png)  [Animated slide panel with Angular](https://medium.com/@asm/animated-slide-panel-with-angular-e985ad646f9)
+* ![Tutorial](./tutorial.png)  [Creating Stagger Animations in Angular 4](https://coursetro.com/posts/code/78/Creating-Stagger-Animations-in-Angular-4)
+* ![Article](./Article.png)  [A New Wave of Animation Features in Angular](https://www.yearofmoo.com/2017/06/new-wave-of-animation-features.html)
+In this detailed article Matias will show you everything you need to know about Angular and animations: new features, animation options, query() and stagger(), sub animations, and the AnimationBuilder.
 
 ## Peformance
 * ![Article](./Article.png)  [Making your Angular apps fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
@@ -244,6 +254,7 @@ A quick guide by Janez showing you how to use Travis CI for continuous integrati
 * ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module](http://blog.arroyolabs.com/2017/05/converting-your-angular-cli-application-into-a-npm-module/)
 * ![Article](./Article.png)  [Angular Build with Webpack and Babili](http://www.syntaxsuccess.com/viewarticle/angular-build-with-webpack-and-babili-)
 * ![Article](./Article.png)  [An Angular 2 Webpack setup for development and production](https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24)
+* ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module: Part Two](http://blog.arroyolabs.com/2017/06/converting-your-angular-cli-application-into-a-npm-module-part-two/)
 
 ## Typescript
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
@@ -286,7 +297,7 @@ And here's another brief tip: Yakov shares how to modify the Angular CLI to work
 * ![Article](./Article.png)  [The Ultimate Angular CLI Reference Guide](https://www.sitepoint.com/ultimate-angular-cli-reference/)
 * ![Article](./Article.png)  [7 Angular Tools That You Should Consider](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
 * ![Tutorial](./tutorial.png)  [angular-tslint-rules: a configuration preset for both TSLint & codelyzer](https://medium.com/burak-tasci/angular-tslint-rules-a-configuration-preset-for-both-tslint-codelyzer-8b5fa1455908)
-
+* ![Article](./Article.png)  [Angular CLI and OS Environment Variables](https://medium.com/@natchiketa/angular-cli-and-os-environment-variables-4cfa3b849659)
 
 ## Backend
 * ![Tutorial](./tutorial.png)  [Serverless REST API with Angular, Persistence and Security](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/)
@@ -303,6 +314,7 @@ A detailed guide by Didin about how to build an Ionic 3 application using Angula
 * ![Tutorial](./tutorial.png)  [How to build hybrid app using Ionic 3 and Angular](http://keysandstrokes.info/angular-4-with-ionic-3/)
 * ![Article](./Article.png)  [Form Validation in a NativeScript Angular Mobile Application](http://developer.telerik.com/products/nativescript/form-validation-nativescript-angular-mobile-application/)
 Nic shows two ways how to do a client-side validation for NativeScript forms with Angular: by using built-in Angular validators, and by writing custom directives for further validation
+* ![Tutorial](./tutorial.png)  [Create an Animated App Onboarding Process with Ionic 3](https://coursetro.com/posts/code/76/Create-an-Animated-App-Onboarding-Process-with-Ionic-3)
 
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
@@ -321,8 +333,10 @@ Short but impressive tutorial by Tarik explaining how to create a canvas element
 * ![Tutorial](./tutorial.png)  [Build a simple Emoji Chrome Extension with Angular CLI](https://medium.com/@_JoshSommer/build-a-simple-emoji-chrome-extension-with-angular-cli-84937a1ca640)
 * ![Article](./Article.png)  [Angular Architecture Paper Cards](https://medium.com/@wingsuitist/angular-architecture-paper-cards-2549f59e4d0d)
 As we boot new developers into Angular we were looking for haptic ways to visualize and form an angular app as well as it’s architecture. And what’s better for that, than some cards to print out and play with
+* ![Article](./Article.png)  [Real-World Angular Series - Part 1: MEAN Setup & Angular Architecture](https://auth0.com/blog/real-world-angular-series-part-1/)
 * ![Tutorial](./tutorial.png)  [Real World App - Part 12: Cloud functions for Firebase](https://blog.realworldfullstack.io/real-world-app-part-12-cloud-functions-for-firebase-8359787e26f3)
 * ![Tutorial](./tutorial.png)  [How To Read QR Codes In Angular?](https://www.techiediaries.com/read-qrcodes-angular/)
+
 
 ## Angular Material
 * ![Article](./Article.png)  [Custom Themes With Angular Material](https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html)
@@ -334,7 +348,7 @@ In this article Tomas explains why you should make use of themes and how to crea
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
 * ![Tutorial](./tutorial.png)  [Getting started on Angular 2 with Bootstrap](http://www.gistia.com/getting-started-angular-2-bootstrap/)
-* ![Tutorial](./tutorial.png)  [How to create library for Angular and publish to npm from scratch](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
+* ![Tutorial](./tutorial.png)  [How to create library for Angular and publish to from scratch](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
 This is an interesting and in-depth article by Elec about what JavaScript modules are, and how you can create your own modules with Angular and publish them to npm
 
 ## Projects
