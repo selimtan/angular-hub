@@ -33,6 +33,9 @@ A quick tip on how to use Array.include and Object.entries in your Angular
 Jecelyn shows how to create a drag and drop image uploader for single and multiple files with Angular and Hapi.js.
 * ![Video](./Video.png)  [Angular 2 + Node.js - Build Socket Chat Application](https://www.youtube.com/watch?v=yXyWSCxmtTo)
 Learn how to create a chat app using Angular and Node.js. We'll be using socket.io, express.js on the server, along with gulp and Angular
+* ![Article](./Article.png)  [Lazy Loading in Angular](https://alligator.io/angular/lazy-loading/)
+* ![Article](./Article.png)  [Preloading in Angular](https://alligator.io/angular/preloading/)
+* ![Article](./Article.png)[Removing Roadblocks in the Move to Angular 4](https://www.lucidchart.com/techblog/2017/04/20/removing-roadblocks-move-angular-4/)
 
 ## Directives
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
@@ -85,6 +88,7 @@ A quick 6-minutes tip by Sean about avoiding zombie listeners with the use of a 
 Wojciech shows what Functional Reactive Programming (FRP) is and how you can use FRP in your Angular application with RxJS.
 * ![Tutorial](./tutorial.png)  [Angular 2 — TwitchTV : Dynamic Search Result using Angular’s HTTP Service + RxJS Observables](https://medium.com/@a_reza88/angular-2-twitchtv-dynamic-search-result-using-angulars-http-service-rxjs-observables-42b9c55a17b8#.ayb6jy9ga)
 In this tutorial you'll learn how to use Angular's HTTP service to create a Twitch Search application.
+* ![Article](./Article.png)  [When to Unsubscribe in Angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
 
 ## State Management
 * ![Article](./Article.png)  [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
@@ -96,6 +100,9 @@ The first part of a tutorial about how to create a todo app with ngrx/store, ngr
 * ![Tutorial](./tutorial.png)  [UI state management with Redux in Angular 2](https://www.pluralsight.com/guides/front-end-javascript/ui-state-management-with-redux-in-angular-2)
 In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 to manage user interface states with Redux.
 * ![Article](./Article.png)  [What I have learned using ngrx/Redux with Angular](https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661)
+* ![Article](./Article.png)  [Reusing ngrx/effects in Angular (communicating between reducers)](http://orizens.com/wp/topics/reusing-ngrxeffects-in-angular-communicating-between-reducers/)
+* ![Article](./Article.png)  [Reactive Programming in Angular](https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c)
+In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
 
 ## Component
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
@@ -126,9 +133,11 @@ In this article Netanel shows how he implemented Event modifiers, a feature from
 ## DOM Manipulation
 * ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
 The new Angular version runs on different platforms — in a browser, on a mobile platform or inside a web worker. So a level of abstraction is required to stand between platform specific API and the framework interfaces.
+
 ## Animation
 * ![Article](./Article.png)  [From ngAnimate to Angular 2 animate](http://developer.telerik.com/topics/web-development/nganimate-angular-2-animate/)
 Lukas compares the ngAnimate module from Angular 1.x with the way animations work in Angular 2+. If you like these kind of articles, you will all like "From ng-switch to ngSwitch" by Todd Motto.
+* ![Tutorial](./tutorial.png)  [Angular 2/4 - Router Animation Tutorial & Example](http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example)
 
 ## Peformance
 * ![Article](./Article.png)  [Making your Angular apps fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
@@ -157,6 +166,8 @@ Dylan writes about his experiences from creating his own library with shared ser
 ## Compiler
 * ![Article](./Article.png)  [Closure Compiler and Http Requests](http://www.syntaxsuccess.com/viewarticle/closure-compiler-and-http-requests)
 * ![Article](./Article.png)  [Webpack 3 vs Webpack 2](http://www.syntaxsuccess.com/viewarticle/webpack-3-vs-webpack-2)
+* ![Article](./Article.png)  [Everything you need to know about debugging Angular applications](https://medium.com/@maximus.koretskyi/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
+A detailed article about ways to degub an Angular application, from debugging the source code to debugging in the browser console.
 
 ## Testing
 * ![Article](./Article.png)  ![Video](./Video.png)  [Writing a Basic Component Test with Angular Testing Utilities](http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/)
@@ -167,6 +178,7 @@ A detailed tutorial about how to test your application's routes with Angular.
 Michal shows how to use Jest and Jasmine for unit testing your Angular application, instead of Karma and Jasmine.
 * ![Article](./Article.png)  [Using Stubs and Mocks in Jasmine to test your Angular code](http://blog.arroyolabs.com/2017/04/angular-2-unit-test-mocks-stubs/)
 Andy writes about unit testing your Angular application with test stubs and mock objects by using Jasmine.
+* ![Tutorial](./tutorial.png)  [Unit Test Your ngrx/effects in Angular](https://netbasal.com/unit-test-your-ngrx-effects-in-angular-1bf2142dd459)
 
 
 ## Tooling
@@ -181,6 +193,8 @@ A quick tip about how to use global SASS variables in your Angular component.
 Most analytics providers do not automatically track the browser’s navigation history, making it difficult to track Single Page Applications (SPAs) like Angular applications.
 * ![Article](./Article.png)  [Angular CLI: multiple apps in the same project ](https://yakovfain.com/2017/04/06/angular-cli-multiple-apps-in-the-same-project/)
 And here's another brief tip: Yakov shares how to modify the Angular CLI to work with an Angular project that has multiple apps.
+* ![Article](./Article.png)  [The Ultimate Angular CLI Reference Guide](https://www.sitepoint.com/ultimate-angular-cli-reference/)
+* ![Article](./Article.png)  [7 Angular Tools That You Should Consider](http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
 
 
 ## Backend
@@ -194,6 +208,7 @@ And here's another short tip showing how to use Thorsten's small library ngx-ele
 ## Mobile
 * ![Tutorial](./tutorial.png)  [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
+
 ## Other
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
 A tutorial about how to create a web browser extension for Firefox, Chrome, Opera or Edge by using the WebExtensions API and Angular.
@@ -208,6 +223,8 @@ A guide about using deepstream.io and Angular to build a real-time chat applicat
 This is a longer, but truly interesting article explaining what exactly happens under the hood when using Angular in development mode.
 * ![Tutorial](./tutorial.png)  [Building a Canvas component with Free Hand drawing using RxJS and Angular](https://medium.com/@tarik.nzl/creating-a-canvas-component-with-free-hand-drawing-with-rxjs-and-angular-61279f577415)
 Short but impressive tutorial by Tarik explaining how to create a canvas element that allows free hand drawings with RxJS. 
+* ![Tutorial](./tutorial.png)  [Build a simple Emoji Chrome Extension with Angular CLI](https://medium.com/@_JoshSommer/build-a-simple-emoji-chrome-extension-with-angular-cli-84937a1ca640)
+
 ## Library
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
