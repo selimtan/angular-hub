@@ -101,6 +101,12 @@ Interesting piece by Fabien showing you how to use Protractor to catch issues wi
 * ![Article](./Article.png)  [Common mistakes with Angular Universal](https://malcoded.com/posts/server-rendering-pitfalls)
 * ![Article](./Article.png)  [PWAs with Angular: Being Reliable](https://dev.to/michaelsolati/pwas-with-angular-beingreliable)
 * ![Article](./Article.png)  [The Angular HTTP Client - Quickstart Guide](http://blog.angular-university.io/angular-http/#.WWZFdiGud_g.twitter)
+* ![Article](./Article.png)  [Essential Angular: Compilation](https://blog.nrwl.io/essential-angular-2-compilation-cfbebf9bb6e4)
+* ![Article](./Article.png)  [Essential Angular: NgModules](https://blog.nrwl.io/essential-angular-ngmodules-16474ea99713)
+* ![Article](./Article.png)  [Essential Angular: Components and Directives](https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60)
+* ![Article](./Article.png)  [Essential Angular: Dependency Injection](https://blog.nrwl.io/essential-angular-dependency-injection-a6b9dcca1761)
+* ![Article](./Article.png)  [Essential Angular: Change Detection](https://blog.nrwl.io/essential-angular-change-detection-fe0e868dcc00)
+* ![Article](./Article.png)  [Essential Angular: Testing](https://blog.nrwl.io/essential-angular-testing-192315f8be9b)
 
 ## Directives
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
