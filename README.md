@@ -38,7 +38,7 @@ Angular hub is a collection of articles, useful links, tutorials and videos abou
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [A Step-By-Step Guide for Building Master-Detail User Interfaces with Angular](http://developer.telerik.com/content-types/tutorials/step-step-guide-building-master-detail-user-interfaces-angular/)
 This is a detailed tutorial about building a Pokédex application by using the master-detail interface pattern and Angular.
-* ![Tutorial](./tutorial.png)  [Angular File Uploads with an Express Backend](https://scotch.io/tutorials/angular-file-uploads-with-an-express-backend)
+* ![Tutorial](./tutorial.png)  [File Uploads in Angular with a Node and Hapi Backend](https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend)
 Ogundipe shows two ways to create an app to upload files: one by using ng2-file-upload package, and one without using any plugins.
 * ![Article](./Article.png)  [Angular constructor versus ngOnInit](https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook)
 And here's another short article that explains the differences between the ngOnInit lifecycle hook and the constructor method.
