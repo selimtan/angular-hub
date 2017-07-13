@@ -219,7 +219,7 @@ In this long article Victor explains why every Angular application is a reactive
 * ![Tutorial](./tutorial.png)  [Implementing a Meta-Reducer in ngrx/store](https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a)
 * ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
 * ![Article](./Article.png)  [Reactive apps with Angular & ngrx](http://blog.brakmic.com/reactive-apps-with-angular-ngrx/)
-
+* ![Article](./Article.png)  [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
 ## Component
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
