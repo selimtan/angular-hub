@@ -107,6 +107,10 @@ Interesting piece by Fabien showing you how to use Protractor to catch issues wi
 * ![Article](./Article.png)  [Essential Angular: Dependency Injection](https://blog.nrwl.io/essential-angular-dependency-injection-a6b9dcca1761)
 * ![Article](./Article.png)  [Essential Angular: Change Detection](https://blog.nrwl.io/essential-angular-change-detection-fe0e868dcc00)
 * ![Article](./Article.png)  [Essential Angular: Testing](https://blog.nrwl.io/essential-angular-testing-192315f8be9b)
+* ![Article](./Article.png)  [Angular: Bad Practices](https://codeburst.io/angular-bad-practices-eab0e594ce92)
+* ![Article](./Article.png)  [A Taste From The New Angular HTTP Client](https://netbasal.com/a-taste-from-the-new-angular-http-client-38fcdc6b359b)
+* ![Article](./Article.png)  [Create A Photo Gallery With Angular 4](https://www.dunebook.com/create-a-photo-gallery-with-angular-4-tutorial/)
+* ![Article](./Article.png)  [The mechanics of property bindings update in Angular](https://hackernoon.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)
 
 ## Directives
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -141,6 +145,8 @@ Gerard shows different options to style Angular components and directives.
 * ![Article](./Article.png)  [Create an hierarchical style architecture](https://medium.com/@kmathy/angular-create-an-hierarchical-style-architecture-97aa7489cc39)
 A short article about creating a better SCSS architecture by using the /deep/ selector.
 * ![Video](./Video.png)  [Learn The Angular Host Context CSS Selector, See the CLI SAAS integration In Action](https://www.youtube.com/watch?v=zQNAp1WmxLM)
+* ![Article](./Article.png)  ![Video](./Video.png)  [Angular Component Styling Complete Guide](http://blog.angular-university.io/angular-ngclass-ngstyle/)
+In this post, we are going to learn the many options that we have available for styling our Angular components. We will talk about when to use each feature and why, and also cover how to debug our styles if something is not working
 
 ## Forms
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -159,6 +165,7 @@ In this long article Todd shares some patterns for using a component architectur
 * ![Tutorial](./tutorial.png)  [How to Integrate reCAPTCHA in your Angular Forms](https://netbasal.com/how-to-integrate-recaptcha-in-your-angular-forms-400c43344d5c)
 * ![Tutorial](./tutorial.png)  [Angular 2 form fundamentals: reactive forms](https://toddmotto.com/angular-2-forms-reactive)
 * ![Tutorial](./tutorial.png)  [Configurable Reactive Forms in Angular with dynamic components](https://toddmotto.com/angular-dynamic-components-forms)
+* ![Tutorial](./tutorial.png)  [Username Availability with an Asynchronous Validator in Angular](https://www.joshmorony.com/username-availability-with-an-asynchronous-validator-in-angular/)
 
 ## Pipes
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -225,6 +232,10 @@ In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 
 * ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
 * ![Article](./Article.png)  [Reactive apps with Angular & ngrx](http://blog.brakmic.com/reactive-apps-with-angular-ngrx/)
 * ![Article](./Article.png)  [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
+* ![Article](./Article.png)  [Listening for Actions in @ngrx/store](https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210)
+* ![Article](./Article.png)  [Dynamic View Model with @ngrx/store](https://webcake.co/dynamic-view-model-with-ngrxstore/)
+* ![Tutorial](./tutorial.png)  [Ngrx and Angular 2 Tutorial: Building a Reactive Application](https://www.toptal.com/angular-js/ngrx-angular-reaction-application)
+
 ## Component
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
@@ -299,6 +310,7 @@ A quick and interesting tip on how to track the size of bundled Angular applicat
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [User Authentication with Angular and ASP.NET Core](https://fullstackmark.com/post/10/user-authentication-with-angular-and-asp-net-core)
 A super detailed step-by-step tutorial showing you how to add user authentication to an Angular application powered by an ASP.NET Core backend API.
+* ![Article](./Article.png)  [Authentication in Angular & JWT](https://medium.com/@amcdnl/authentication-in-angular-jwt-c1067495c5e0)
 
 ## Production/Deployment
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -316,6 +328,7 @@ A quick guide by Janez showing you how to use Travis CI for continuous integrati
 * ![Article](./Article.png)  [Angular Build with Webpack and Babili](http://www.syntaxsuccess.com/viewarticle/angular-build-with-webpack-and-babili-)
 * ![Article](./Article.png)  [An Angular 2 Webpack setup for development and production](https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24)
 * ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module: Part Two](http://blog.arroyolabs.com/2017/06/converting-your-angular-cli-application-into-a-npm-module-part-two/)
+* ![Article](./Article.png)  [Writing AoT-friendly applications](https://medium.com/spektrakel-blog/angular-writing-aot-friendly-applications-7b64c8afbe3f)
 
 ## Typescript
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -328,6 +341,8 @@ A quick guide by Janez showing you how to use Travis CI for continuous integrati
 * ![Article](./Article.png)  [Webpack 3 vs Webpack 2](http://www.syntaxsuccess.com/viewarticle/webpack-3-vs-webpack-2)
 * ![Article](./Article.png)  [Everything you need to know about debugging Angular applications](https://medium.com/@maximus.koretskyi/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
 A detailed article about ways to degub an Angular application, from debugging the source code to debugging in the browser console.
+* ![Article](./Article.png)  [A Deep, Deep, Deep, Deep, Deep Dive into the Angular Compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
+The Angular compiler is an amazing piece of engineering, as we are going to see soon. There is a good reason it is more than 1MB of code, and is the result of more than a year of hard work by the Angular team.
 
 ## Testing
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
