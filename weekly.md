@@ -4,6 +4,12 @@ Angular hub is a collection of articles, useful links, tutorials and videos abou
 ### 10 Jul, 2017
 * ![Article](./Article.png)  [The Angular HTTP Client - Quickstart Guide](http://blog.angular-university.io/angular-http/#.WWZFdiGud_g.twitter)
 * ![Article](./Article.png)  [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
+* ![Article](./Article.png)  [Authentication in Angular & JWT](https://medium.com/@amcdnl/authentication-in-angular-jwt-c1067495c5e0)
+* ![Article](./Article.png)  [Listening for Actions in @ngrx/store](https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210)
+* ![Tutorial](./tutorial.png)  [Username Availability with an Asynchronous Validator in Angular](https://www.joshmorony.com/username-availability-with-an-asynchronous-validator-in-angular/)
+* ![Article](./Article.png)  [Dynamic View Model with @ngrx/store](https://webcake.co/dynamic-view-model-with-ngrxstore/)
+* ![Article](./Article.png)  [Writing AoT-friendly applications](https://medium.com/spektrakel-blog/angular-writing-aot-friendly-applications-7b64c8afbe3f)
+* ![Article](./Article.png)  [Angular: Bad Practices](https://codeburst.io/angular-bad-practices-eab0e594ce92)
 
 ### 29 Jun, 2017
 * ![Article](./Article.png)  [Here is why you will not find components inside Angular](https://hackernoon.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
@@ -134,7 +140,12 @@ You can leverage decorators in your apps and create powerful things with them. D
 * ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
 * ![Tutorial](./tutorial.png)  [Continuous everything with Angular, Travis CI, Firebase and Greenkeeper](https://medium.com/@jamzi/continuous-everything-with-angular-travis-ci-firebase-and-greenkeeper-6656543bd826)
 A quick guide by Janez showing you how to use Travis CI for continuous integration, Firebase for hosting and Greenkeeper as an automated dependency management tool with your Angular application.
-
+* ![Article](./Article.png)  [A Taste From The New Angular HTTP Client](https://netbasal.com/a-taste-from-the-new-angular-http-client-38fcdc6b359b)
+* ![Article](./Article.png)  [Create A Photo Gallery With Angular 4](https://www.dunebook.com/create-a-photo-gallery-with-angular-4-tutorial/)
+* ![Article](./Article.png)  [Create A Photo Gallery With Angular 4](https://www.dunebook.com/create-a-photo-gallery-with-angular-4-tutorial/)
+* ![Article](./Article.png)  [The mechanics of property bindings update in Angular](https://hackernoon.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)
+* ![Article](./Article.png)  ![Video](./Video.png)  [Angular Component Styling Complete Guide](http://blog.angular-university.io/angular-ngclass-ngstyle/)
+In this post, we are going to learn the many options that we have available for styling our Angular components. We will talk about when to use each feature and why, and also cover how to debug our styles if something is not working
 
 ### 27 Apr, 2017
 * ![Article](./Article.png)  [Lazy Loading in Angular](https://alligator.io/angular/lazy-loading/)
@@ -150,6 +161,8 @@ A quick guide by Janez showing you how to use Travis CI for continuous integrati
 A detailed article about ways to degub an Angular application, from debugging the source code to debugging in the browser console.
 * ![Article](./Article.png)  [Reactive Programming in Angular](https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c)
 In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
+* ![Article](./Article.png)  [A Deep, Deep, Deep, Deep, Deep Dive into the Angular Compiler](https://medium.com/@urish/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
+The Angular compiler is an amazing piece of engineering, as we are going to see soon. There is a good reason it is more than 1MB of code, and is the result of more than a year of hard work by the Angular team.
 
 ### 20 Apr, 2017
 * ![Video](./Video.png)  [Angular 2 + Node.js - Build Socket Chat Application](https://www.youtube.com/watch?v=yXyWSCxmtTo)
