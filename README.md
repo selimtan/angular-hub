@@ -35,6 +35,7 @@ Angular hub is a collection of articles, useful links, tutorials and videos abou
 * [Video List](https://github.com/selimtan/angular-hub/blob/master/README.md#youtube)
 
 ## General
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [A Step-By-Step Guide for Building Master-Detail User Interfaces with Angular](http://developer.telerik.com/content-types/tutorials/step-step-guide-building-master-detail-user-interfaces-angular/)
 This is a detailed tutorial about building a Pokédex application by using the master-detail interface pattern and Angular.
 * ![Tutorial](./tutorial.png)  [Angular File Uploads with an Express Backend](https://scotch.io/tutorials/angular-file-uploads-with-an-express-backend)
@@ -102,6 +103,7 @@ Interesting piece by Fabien showing you how to use Protractor to catch issues wi
 * ![Article](./Article.png)  [The Angular HTTP Client - Quickstart Guide](http://blog.angular-university.io/angular-http/#.WWZFdiGud_g.twitter)
 
 ## Directives
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [Angular ngFor, <ng-template> and the compiler](https://toddmotto.com/angular-ngfor-template-element)
 In this extensive article Todd explores the built-in ngFor directive and demonstrates how Angular expands the directive to a template element and composes the view.
 * ![Article](./Article.png)  [Angular Async Data Binding with ngIf and ngElse](https://coryrylan.com/blog/angular-async-data-binding-with-ng-if-and-ng-else)
@@ -120,10 +122,12 @@ In this long article Victor explains everything you need to know about the mecha
 Juri shares how the enhanced *ngIf and *ngFor directives of Angular version 4.0.0 make working with observables more convenient.
 
 ## Templates
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png) [Angular 2 — A quick intro about template syntax](https://medium.com/front-end-hacking/angular-2-a-quick-intro-about-template-syntax-121f9b160a64)
 A nice summery for beginners: Carlos made a collection of directives and the different ways to make property and data bindings in templates.
 
 ## Class/Styling
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [Angular 2+ Classes with NgClass and NgStyle - Tutorial](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
 A tutorial about creating dynamic styles in multiple ways by using NgClass and NgStyle.
 * ![Article](./Article.png)  [Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.gffhr5r2v)
@@ -133,6 +137,7 @@ A short article about creating a better SCSS architecture by using the /deep/ se
 * ![Video](./Video.png)  [Learn The Angular Host Context CSS Selector, See the CLI SAAS integration In Action](https://www.youtube.com/watch?v=zQNAp1WmxLM)
 
 ## Forms
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Real World Angular — Form Formation](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
 This is the third part of an article series showing you how to accept, validate and save data with reactive forms.
 * ![Article](./Article.png)  [Angular Forms in Depth](https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.dhn4wxipe)
@@ -149,6 +154,7 @@ In this long article Todd shares some patterns for using a component architectur
 * ![Tutorial](./tutorial.png)  [Configurable Reactive Forms in Angular with dynamic components](https://toddmotto.com/angular-dynamic-components-forms#creating-a-dynamic-form)
 
 ## Pipes
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [Sorting with Pipes in Angular](https://blog.xmltravelgate.com/sorting-with-pipes-in-angular-2-7370b0839468#.bpnax0mw6)
 A quick tutorial showing how to create a custom pipe for sorting tables.
 * ![Article](./Article.png)  [Three Things You Didn't Know About the AsyncPipe](https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html)
@@ -157,6 +163,7 @@ Christoph shares three special AsyncPipe features, e.g. how to use the AsyncPipe
 Burke compares how to use built-in and custom pipes in Angular 1.x and Angular 2+.
 
 ## Services
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Creating an Angular 2 Injectable Service](http://developer.telerik.com/topics/web-development/creating-angular-2-injectable-service/)
 Todd compares the .service() method of Angular 1.x with Angular 2+ services. There's also another article by Lukas comparing ng-model (Angular 1.x) with ngModel (Angular 2+).
 * ![Tutorial](./tutorial.png)  [Angular Singleton Service and a Loading Indicator](https://medium.com/@weswhite/angular-singleton-service-and-a-loading-indicator-ca3cc7892722)
@@ -164,6 +171,7 @@ Todd compares the .service() method of Angular 1.x with Angular 2+ services. The
 * ![Article](./Article.png)  [Angular Service Workers](https://pascalprecht.github.io/slides/angular-and-service-workers/#/)
 
 ## Routing
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [3 Types of Route Loading in Angular, Explained In 500ish words](https://blog.upstate.agency/3-types-of-route-loading-in-angular-explained-in-500ish-words-f22976e1f60b)
 * ![Tutorial](./tutorial.png)  [Angular Router: Defining Child Routes](https://alligator.io/angular/angular-router-child-routes/)
 * ![Tutorial](./tutorial.png)  [Implementing Auth Guard with Componentless Route in Angular](https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77)
@@ -173,6 +181,7 @@ Todd compares the .service() method of Angular 1.x with Angular 2+ services. The
 * ![Article](./Article.png)  [Resolving route data in Angular](https://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html)
 
 ## RxJs
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Error Handling in RxJs](http://www.syntaxsuccess.com/viewarticle/error-handling-in-rxjs)
 * ![Video](./Video.png)  [Avoid Zombie Subscribers in Angular](https://www.youtube.com/watch?v=oV8b-rlyMdI)
 A quick 6-minutes tip by Sean about avoiding zombie listeners with the use of a @once decorator.
@@ -193,6 +202,7 @@ RxJS is an incredible tool for reactive programming, and today we’re going to 
 
 
 ## State Management
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
 A long and super interesting article about the state management in general, the different types of states, and how to avoid common mistakes in your Angular application with by using patterns.
 * ![Tutorial](./tutorial.png)  [From Redux to Angular ngrx/store](https://julienrenaux.fr/2017/02/16/from-redux-to-angular-ngrxstore/)
@@ -210,6 +220,7 @@ In this long article Victor explains why every Angular application is a reactive
 * ![Article](./Article.png)  [Reactive apps with Angular & ngrx](http://blog.brakmic.com/reactive-apps-with-angular-ngrx/)
 
 ## Component
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Custom SnackBar using Angular2/Material](https://medium.com/@usrlotus/custom-snackbar-using-angular2-material-67a0b576588f)
 Learn how to extend the official Material Design SnackBar to create a custom SnackBar with different styles and behavior.
 * ![Article](./Article.png)  [Component Property Binding with @Input() in Angular 2](http://developer.telerik.com/topics/web-development/component-property-binding-input-angular-2/)
@@ -232,26 +243,31 @@ A long and interesting article about component design patterns, the separation o
 * ![Article](./Article.png)  [Here is why you will not find components inside Angular](https://hackernoon.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
 
 ## Content Projection
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
 Juri compares the concepts behind transclusion in Angular 1.x with the content projection mechanisms of Angular 2+.
 * ![Article](./Article.png)  [Angular ng-content and Content Projection: A Complete Guide - How To Use ng-content To Improve Component API Design](http://blog.angular-university.io/angular-ng-content/)
 
 ## Events
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c#.lidun43mv)
 Netanel takes a look at component communication and event emitters in an Angular application that uses RxJS.
 * ![Article](./Article.png)  [Implementing Event Modifiers in Angular](https://netbasal.com/implementing-event-modifiers-in-angular-87e1a07969ce)
 In this article Netanel shows how he implemented Event modifiers, a feature from the Vue library, in Angular.
 
 ## Dependency Injection
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Magic Of Dependency Injection in Angular](https://blog.knoldus.com/2017/06/15/magic-of-dependency-injection-in-angular-2/)
 * ![Article](./Article.png)  [Mastering Angular dependency injection with @Inject, @Injectable, tokens and providers](https://toddmotto.com/angular-dependency-injection)
 
 ## DOM Manipulation
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://medium.com/@maximus.koretskyi/exploring-angular-dom-abstractions-80b3ebcfc02#.7g7rsolt6)
 The new Angular version runs on different platforms — in a browser, on a mobile platform or inside a web worker. So a level of abstraction is required to stand between platform specific API and the framework interfaces.
 * ![Article](./Article.png)  [The mechanics of DOM updates in AngularAngular 2 Best Practices: Change Detector Performance](https://hackernoon.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
 
 ## Animation
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [From ngAnimate to Angular 2 animate](http://developer.telerik.com/topics/web-development/nganimate-angular-2-animate/)
 Lukas compares the ngAnimate module from Angular 1.x with the way animations work in Angular 2+. If you like these kind of articles, you will all like "From ng-switch to ngSwitch" by Todd Motto.
 * ![Tutorial](./tutorial.png)  [Angular 2/4 - Router Animation Tutorial & Example](http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example)
@@ -261,6 +277,7 @@ Lukas compares the ngAnimate module from Angular 1.x with the way animations wor
 In this detailed article Matias will show you everything you need to know about Angular and animations: new features, animation options, query() and stagger(), sub animations, and the AnimationBuilder.
 
 ## Peformance
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Making your Angular apps fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
 In this incredible article Pascal shows how to improve the performance of a demo application rendering 10000 draggable SVG boxes.
 * ![Article](./Article.png)  [Lazy Loading vs Preloading Modules — Which should you choose](https://medium.com/@prowe214/lazy-loading-vs-preloading-modules-which-should-you-choose-85a1fb71a24)
@@ -273,10 +290,12 @@ In this article Pascal writes about using the NgZones API to increase the perfor
 A quick and interesting tip on how to track the size of bundled Angular applications with the Webpack bundle analyzer.
 
 ## Authentication
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [User Authentication with Angular and ASP.NET Core](https://fullstackmark.com/post/10/user-authentication-with-angular-and-asp-net-core)
 A super detailed step-by-step tutorial showing you how to add user authentication to an Angular application powered by an ASP.NET Core backend API.
 
 ## Production/Deployment
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Angular Production Builds](http://www.syntaxsuccess.com/viewarticle/angular-production-builds)
 * ![Article](./Article.png)  [How to host your Angular 2 application in AWS with S3](https://www.johnlouros.com/blog/host-your-angular-app-in-aws-s3)
 @Amazon, @Production
@@ -293,16 +312,19 @@ A quick guide by Janez showing you how to use Travis CI for continuous integrati
 * ![Tutorial](./tutorial.png)  [Converting your Angular CLI application into a NPM Module: Part Two](http://blog.arroyolabs.com/2017/06/converting-your-angular-cli-application-into-a-npm-module-part-two/)
 
 ## Typescript
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png) [Typescript 2 Type System Top 3 Key Concepts - Angular University](http://blog.angular-university.io/typescript-2-type-system-how-does-it-really-work-when-are-two-types-compatible-its-actually-quite-different-than-other-type-systems/)
 * ![Article](./Article.png)  [Using Import = Require Syntax With TypeScript 2.2 In Angular 2.4.9](https://www.bennadel.com/blog/3259-using-import-require-syntax-with-typescript-2-2-in-angular-2-4-9.htm)
 
 ## Compiler
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Closure Compiler and Http Requests](http://www.syntaxsuccess.com/viewarticle/closure-compiler-and-http-requests)
 * ![Article](./Article.png)  [Webpack 3 vs Webpack 2](http://www.syntaxsuccess.com/viewarticle/webpack-3-vs-webpack-2)
 * ![Article](./Article.png)  [Everything you need to know about debugging Angular applications](https://medium.com/@maximus.koretskyi/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
 A detailed article about ways to degub an Angular application, from debugging the source code to debugging in the browser console.
 
 ## Testing
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  ![Video](./Video.png)  [Writing a Basic Component Test with Angular Testing Utilities](http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/)
 The article explains how to use Angular's testing utilities and a basic pattern to write component tests.
 * ![Tutorial](./tutorial.png)  [Testing Routes in Angular 2](https://semaphoreci.com/community/tutorials/testing-routes-in-angular-2)
@@ -320,6 +342,7 @@ Andy writes about unit testing your Angular application with test stubs and mock
 * ![Article](./Article.png)  [Testing services with http in angular](https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html)
 
 ## Tooling
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [Upgrading to the latest Angular CLI](https://yakovfain.com/2017/02/05/upgrading-to-the-latest-angular-cli/)
 `@Angular/CLI`
 * ![Tutorial](./tutorial.png) [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/)
@@ -337,14 +360,17 @@ And here's another brief tip: Yakov shares how to modify the Angular CLI to work
 * ![Article](./Article.png)  [Angular CLI and OS Environment Variables](https://medium.com/@natchiketa/angular-cli-and-os-environment-variables-4cfa3b849659)
 
 ## Backend
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [Serverless REST API with Angular, Persistence and Security](https://auth0.com/blog/serverless-angular-app-with-persistence-and-security/)
 A tutorial about creating a full stack application with static file hosting, a secure REST API, and a robust persistence layer.
 
 ## Desktop
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [Integrating Angular and Electron using ngx-electron](https://medium.com/@ThorstenHans/integrating-angular-and-electron-using-ngx-electron-9c36affca25e#.zgd9x9ezu)
 And here's another short tip showing how to use Thorsten's small library ngx-electron to integrate Electron in an Angular application.
 
 ## Mobile
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Tutorial](./tutorial.png)  [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
 * ![Tutorial](./tutorial.png)  [Ionic 3 Google Plus Authentication Tutorial](https://www.djamware.com/post/59094a2280aca7414e78a63d/ionic-3-google-plus-authentication-tutorial)
@@ -354,6 +380,7 @@ Nic shows two ways how to do a client-side validation for NativeScript forms wit
 * ![Tutorial](./tutorial.png)  [Create an Animated App Onboarding Process with Ionic 3](https://coursetro.com/posts/code/76/Create-an-Animated-App-Onboarding-Process-with-Ionic-3)
 
 ## Other
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * [Web Extensions made with Angular](https://cito.github.io/blog/web-ext-with-angular/) - 
 A tutorial about how to create a web browser extension for Firefox, Chrome, Opera or Edge by using the WebExtensions API and Angular.
 * [Build a Music Player with Angular 2+ & Electron I : Setup & Basics Concepts](https://scotch.io/tutorials/build-a-music-player-with-angular-2-electron-i-setup-basics-concepts) - This is a three part tutorial by Chris showing you how to create a music player desktop application for Mac, Windows and Linux with Electron and Angular. There's also a [part II](https://scotch.io/tutorials/build-a-music-player-with-angular-electron-ii-making-the-ui) and [part III](https://scotch.io/tutorials/build-a-music-player-with-angular-electron-iii-bringing-it-all-together) of this series.
@@ -376,12 +403,14 @@ As we boot new developers into Angular we were looking for haptic ways to visual
 
 
 ## Angular Material
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Custom Themes With Angular Material](https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html)
 In this long guide Pascal explains in details how theming works with Angular Material: how to use pre-built themes, and how to create your own custom themes
 * ![Article](./Article.png)  [The complete guide to Angular Material Themes](https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1)
 In this article Tomas explains why you should make use of themes and how to create them with the Angular Material library
 
 ## Library
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * [Top 27 Angular 2 Components for Web Developers](https://colorlib.com/wp/angular-2-components/)
 If Angular 2 captured your heart as well, you might be interested in grabbing any of the following Angular 2 components.
 * ![Tutorial](./tutorial.png)  [Getting started on Angular 2 with Bootstrap](http://www.gistia.com/getting-started-angular-2-bootstrap/)
@@ -389,12 +418,15 @@ If Angular 2 captured your heart as well, you might be interested in grabbing an
 This is an interesting and in-depth article by Elec about what JavaScript modules are, and how you can create your own modules with Angular and publish them to npm
 
 ## Projects
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Introducing AngularSpree – Open sourcing E-Commerce front-end application in Angular](https://medium.com/aviabird/introducing-angularspree-ad55bea64d6c)
 
 ## Github
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
 
 ## Youtube
+[Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Video](./Video.png)  [AngularCamp 2016](https://www.youtube.com/playlist?list=PLB17qI-lepyhSdXvjSupwSMAMmOxpciUl)
 On this YouTube playlist are the talks from AngularCamp 2016, e.g. "Angular 2 Server Side Rendering" by Wassim Chegham, "Progressive Web Apps with Angular 2" by Manfred Steyer or "Augury" by Vanessa Yuen.
 * ![Video](./Video.png)  [ngVikings 2017 Recordings](https://opbeat.com/community/events/ngvikings-2017/)
