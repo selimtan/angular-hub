@@ -206,7 +206,8 @@ RxJS is an incredible tool for reactive programming, and today we’re going to 
 * ![Article](./Article.png)  [Using the takeUntil RxJS Operator to Manage Subscriptions Declaratively](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/)
 * ![Article](./Article.png)  [Querying a Normalized State with RxJS in Angular](https://netbasal.com/querying-a-normalized-state-with-rxjs-in-angular-71ecd7ca25b4)
 * ![Tutorial](./tutorial.png)  [Angular and RxJS: Create an API Service to Talk to a REST Backend](https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/)
-
+* ![Article](./Article.png)  [Reactive Programming in Angular](https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c)
+In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
 
 ## State Management
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -220,8 +221,6 @@ The first part of a tutorial about how to create a todo app with ngrx/store, ngr
 In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 to manage user interface states with Redux.
 * ![Article](./Article.png)  [What I have learned using ngrx/Redux with Angular](https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661)
 * ![Article](./Article.png)  [Reusing ngrx/effects in Angular (communicating between reducers)](http://orizens.com/wp/topics/reusing-ngrxeffects-in-angular-communicating-between-reducers/)
-* ![Article](./Article.png)  [Reactive Programming in Angular](https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c)
-In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
 * ![Tutorial](./tutorial.png)  [Implementing a Meta-Reducer in ngrx/store](https://netbasal.com/implementing-a-meta-reducer-in-ngrx-store-4379d7e1020a)
 * ![Article](./Article.png)  [How to Really use NgRX](https://blog.dmbcllc.com/how-to-really-use-ngrx/)
 * ![Article](./Article.png)  [Reactive apps with Angular & ngrx](http://blog.brakmic.com/reactive-apps-with-angular-ngrx/)
