@@ -445,6 +445,7 @@ This is an interesting and in-depth article by Elec about what JavaScript module
 ## Github
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * [Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload) ](https://github.com/maximegris/angular-electron)
+* [auth0-angular-samples](https://github.com/auth0-samples/auth0-angular-samples)
 
 ## Youtube
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
