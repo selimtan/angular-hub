@@ -167,6 +167,7 @@ In this long article Todd shares some patterns for using a component architectur
 * ![Tutorial](./tutorial.png)  [Angular 2 form fundamentals: reactive forms](https://toddmotto.com/angular-2-forms-reactive)
 * ![Tutorial](./tutorial.png)  [Configurable Reactive Forms in Angular with dynamic components](https://toddmotto.com/angular-dynamic-components-forms)
 * ![Tutorial](./tutorial.png)  [Username Availability with an Asynchronous Validator in Angular](https://www.joshmorony.com/username-availability-with-an-asynchronous-validator-in-angular/)
+* ![Article](./Article.png)  [Understanding the compareFn Input in Angular](https://netbasal.com/understanding-the-comparefn-input-in-angular-v4-4a401ef4fc4c)
 
 ## Pipes
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -317,6 +318,9 @@ A quick and interesting tip on how to track the size of bundled Angular applicat
 * ![Tutorial](./tutorial.png)  [User Authentication with Angular and ASP.NET Core](https://fullstackmark.com/post/10/user-authentication-with-angular-and-asp-net-core)
 A super detailed step-by-step tutorial showing you how to add user authentication to an Angular application powered by an ASP.NET Core backend API.
 * ![Article](./Article.png)  [Authentication in Angular & JWT](https://medium.com/@amcdnl/authentication-in-angular-jwt-c1067495c5e0)
+* ![Tutorial](./tutorial.png) [Let’s logout of your Angular4 app](https://medium.com/letsboot/lets-logout-of-your-angular4-app-5f4f6bd95159)
+* ![Article](./Article.png)  [Angular Authentication: Using the Http Client and Http Interceptors](https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors)
+* ![Article](./Article.png)  [Angular Authentication: Using Route Guards](https://ryanchenkie.com/angular-authentication-using-route-guards)
 
 ## Production/Deployment
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
