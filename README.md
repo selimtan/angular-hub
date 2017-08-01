@@ -216,6 +216,7 @@ RxJS is an incredible tool for reactive programming, and today we’re going to 
 * ![Tutorial](./tutorial.png)  [Angular and RxJS: Create an API Service to Talk to a REST Backend](https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/)
 * ![Article](./Article.png)  [Reactive Programming in Angular](https://blog.nrwl.io/reactive-programming-in-angular-7dcded697e6c)
 In this long article Victor explains why every Angular application is a reactive system and what you need to know about reactive programming as an Angular developer.
+* [Top 7 RxJS Concepts for Angular Developers](https://www.youtube.com/watch?v=65Us8NwmYf4)
 
 ## State Management
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -236,6 +237,7 @@ In this extensive tutorial Hristo shares how to use @ngrx/store and Bootstrap 4 
 * ![Article](./Article.png)  [Listening for Actions in @ngrx/store](https://netbasal.com/listening-for-actions-in-ngrx-store-a699206d2210)
 * ![Article](./Article.png)  [Dynamic View Model with @ngrx/store](https://webcake.co/dynamic-view-model-with-ngrxstore/)
 * ![Tutorial](./tutorial.png)  [Ngrx and Angular 2 Tutorial: Building a Reactive Application](https://www.toptal.com/angular-js/ngrx-angular-reaction-application)
+* ![Article](./Article.png)  [Connect Angular Forms to @ngrx/store](https://netbasal.com/connect-angular-forms-to-ngrx-store-c495d17e129)
 
 ## Component
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -265,7 +267,8 @@ A long and interesting article about component design patterns, the separation o
 * ![Article](./Article.png)  [From transclusion to content projection](http://developer.telerik.com/topics/web-development/transclusion-content-projection/)
 Juri compares the concepts behind transclusion in Angular 1.x with the content projection mechanisms of Angular 2+.
 * ![Article](./Article.png)  [Angular ng-content and Content Projection: A Complete Guide - How To Use ng-content To Improve Component API Design](http://blog.angular-university.io/angular-ng-content/)
-
+* ![Article](./Article.png)  [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](http://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+The core directives ng-container, ng-template and ngComponentOutlet all combine together to allow us to create highly dynamical and customizable components
 ## Events
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
 * ![Article](./Article.png)  [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c#.lidun43mv)
@@ -293,6 +296,8 @@ Lukas compares the ngAnimate module from Angular 1.x with the way animations wor
 * ![Tutorial](./tutorial.png)  [Creating Stagger Animations in Angular 4](https://coursetro.com/posts/code/78/Creating-Stagger-Animations-in-Angular-4)
 * ![Article](./Article.png)  [A New Wave of Animation Features in Angular](https://www.yearofmoo.com/2017/06/new-wave-of-animation-features.html)
 In this detailed article Matias will show you everything you need to know about Angular and animations: new features, animation options, query() and stagger(), sub animations, and the AnimationBuilder.
+* ![Tutorial](./tutorial.png)  [Angular — Supercharge your Router transitions using new animation features (v4.3+)](https://medium.com/google-developer-experts/angular-supercharge-your-router-transitions-using-new-animation-features-v4-3-3eb341ede6c8)
+* [Learn Angular Animations with 5 Examples](https://www.youtube.com/watch?v=mVqQDEtRBwA)
 
 ## Peformance
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -347,6 +352,8 @@ The Angular compiler is an amazing piece of engineering, as we are going to see 
 
 ## Testing
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
+* ![Article](./Article.png)  ![Unit testing Angular applications with Jest](https://izifortune.com/unit-testing-angular-applications-with-jest/)
+I do believe that the frameworks should encourage testing and a crucial point is their speed. Jest provides all of this and we've already switched in Ryanair from karma + chrome to Jest
 * ![Article](./Article.png)  ![Video](./Video.png)  [Writing a Basic Component Test with Angular Testing Utilities](http://onehungrymind.com/writing-basic-component-test-angular-testing-utilities/)
 The article explains how to use Angular's testing utilities and a basic pattern to write component tests.
 * ![Tutorial](./tutorial.png)  [Testing Routes in Angular 2](https://semaphoreci.com/community/tutorials/testing-routes-in-angular-2)
@@ -362,6 +369,7 @@ Andy writes about unit testing your Angular application with test stubs and mock
 * ![Article](./Article.png)  [Angular Testing: Using Spies](https://alligator.io/angular/testing-with-spies/)
 * ![Article](./Article.png)  [Introduction to Unit Testing in Angular](https://alligator.io/angular/introduction-unit-testing/)
 * ![Article](./Article.png)  [Testing services with http in angular](https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html)
+* ![Article](./Article.png)  [Angular Testing In Depth: Components](https://auth0.com/blog/angular-testing-in-depth-components/)
 
 ## Tooling
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
@@ -422,6 +430,8 @@ As we boot new developers into Angular we were looking for haptic ways to visual
 * ![Article](./Article.png)  [Real-World Angular Series - Part 1: MEAN Setup & Angular Architecture](https://auth0.com/blog/real-world-angular-series-part-1/)
 * ![Tutorial](./tutorial.png)  [Real World App - Part 12: Cloud functions for Firebase](https://blog.realworldfullstack.io/real-world-app-part-12-cloud-functions-for-firebase-8359787e26f3)
 * ![Tutorial](./tutorial.png)  [How To Read QR Codes In Angular?](https://www.techiediaries.com/read-qrcodes-angular/)
+* ![Article](./Article.png)  [TIL: Importing Lodash into Angular, the better way](https://medium.com/@armno/til-importing-lodash-into-angular-the-better-way-aacbeaa40473)
+* ![Tutorial](./tutorial.png)  [Using Google Tag Manager with Angular 4](https://ngforge.com/using-google-tag-manager-with-angular-4/)
 
 
 ## Angular Material
