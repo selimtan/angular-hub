@@ -151,23 +151,23 @@ In this post, we are going to learn the many options that we have available for 
 
 ## Forms
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
-* ![Article](./Article.png)  [Real World Angular — Form Formation(Akshay Nihalaney)](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
+* ![Article](./Article.png)  [Real World Angular — Form Formation (Akshay Nihalaney)](https://blog.realworldfullstack.io/real-world-angular-part-3-form-formation-f78d8462da70)
 This is the third part of an article series showing you how to accept, validate and save data with reactive forms.
-* ![Article](./Article.png)  [Angular Forms in Depth](https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.dhn4wxipe)
+* ![Article](./Article.png)  [Angular Forms in Depth (Victor Savkin)](https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.dhn4wxipe)
 This is a long, in-depth article about forms, covering the FormsModule and the ReactiveFormsModule.
-* ![Tutorial](./tutorial.png)  [Handling Multiple Checkboxes in Angular Forms](https://netbasal.com/handling-multiple-checkboxes-in-angular-forms-57eb8e846d21)
+* ![Tutorial](./tutorial.png)  [Handling Multiple Checkboxes in Angular Forms (Netanel Basal)](https://netbasal.com/handling-multiple-checkboxes-in-angular-forms-57eb8e846d21)
 A quick tutorial about how to render a list with multiple checkboxes by using reactive forms.
 * ![Tutorial](./tutorial.png)  [Reactive Forms in Angular: Creating a Custom Validator](https://alligator.io/angular/reactive-forms-custom-validator/)
 A quick guide about how to use reactive forms to define a custom form validator. If you like the article, you might want to check out their article "Reactive Forms in Angular: An Introduction".
 * ![Tutorial](./tutorial.png)  [Angular Filter Checkboxes](https://long2know.com/2017/04/angular-filter-checkboxes/)
 A quick tutorial about using checkboxes to filter lists.
-* ![Article](./Article.png)  [Component architecture recipes for Angular’s reactive forms](https://toddmotto.com/component-architecture-reactive-forms-angular)
+* ![Article](./Article.png)  [Component architecture recipes for Angular’s reactive forms (Todd Motto)](https://toddmotto.com/component-architecture-reactive-forms-angular)
 In this long article Todd shares some patterns for using a component architecture with reactive forms.
-* ![Tutorial](./tutorial.png)  [How to Integrate reCAPTCHA in your Angular Forms](https://netbasal.com/how-to-integrate-recaptcha-in-your-angular-forms-400c43344d5c)
-* ![Tutorial](./tutorial.png)  [Angular 2 form fundamentals: reactive forms](https://toddmotto.com/angular-2-forms-reactive)
-* ![Tutorial](./tutorial.png)  [Configurable Reactive Forms in Angular with dynamic components](https://toddmotto.com/angular-dynamic-components-forms)
-* ![Tutorial](./tutorial.png)  [Username Availability with an Asynchronous Validator in Angular](https://www.joshmorony.com/username-availability-with-an-asynchronous-validator-in-angular/)
-* ![Article](./Article.png)  [Understanding the compareFn Input in Angular](https://netbasal.com/understanding-the-comparefn-input-in-angular-v4-4a401ef4fc4c)
+* ![Tutorial](./tutorial.png)  [How to Integrate reCAPTCHA in your Angular Forms (Netanel Basal)](https://netbasal.com/how-to-integrate-recaptcha-in-your-angular-forms-400c43344d5c)
+* ![Tutorial](./tutorial.png)  [Angular 2 form fundamentals: reactive forms (Todd Motto)](https://toddmotto.com/angular-2-forms-reactive)
+* ![Tutorial](./tutorial.png)  [Configurable Reactive Forms in Angular with dynamic components (Todd Motto)](https://toddmotto.com/angular-dynamic-components-forms)
+* ![Tutorial](./tutorial.png)  [Username Availability with an Asynchronous Validator in Angular (Josh Morony)](https://www.joshmorony.com/username-availability-with-an-asynchronous-validator-in-angular/)
+* ![Article](./Article.png)  [Understanding the compareFn Input in Angular (Netanel Basal)](https://netbasal.com/understanding-the-comparefn-input-in-angular-v4-4a401ef4fc4c)
 
 ## Pipes
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
