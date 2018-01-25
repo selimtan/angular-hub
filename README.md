@@ -405,7 +405,7 @@ And here's another short tip showing how to use Thorsten's small library ngx-ele
 
 ## Mobile
 [Top](https://github.com/selimtan/angular-hub/blob/master/README.md#angular-hub)
-* ![Tutorial](./tutorial.png)  [Ionic: How to Use Google Maps & Geolocation (Native & JavaScript)](https://baadiersydow.com/ionic-google-maps-geolocation-native-javascript-ios-android/)
+* ![Tutorial](./tutorial.png)  [Ionic: How to Use Google Maps & Geolocation (Native & JavaScript)(by Baadier Sydow)](https://baadiersydow.com/ionic-google-maps-geolocation-native-javascript-ios-android/)
 * ![Tutorial](./tutorial.png)  [Step by Step Tutorial of Ionic 3, Angular 4 and Google Maps Directions Service](https://www.djamware.com/post/58f4da2080aca7414e78a638/step-by-step-tutorial-of-ionic-3-angular-4-and-google-maps-directions-service)
 A detailed guide by Didin about how to build an Ionic 3 application using Angular 4 and the Google Maps Javascript API. If you liked this article, you might also be interested in [Upgrading Ionic 2 and Angular 2 to Ionic 3 and Angular 4](https://www.djamware.com/post/58ef25ba80aca72673af8503/upgrading-ionic-2-and-angular-2-to-ionic-3-and-angular-4).
 * ![Tutorial](./tutorial.png)  [Ionic 3 Google Plus Authentication Tutorial](https://www.djamware.com/post/59094a2280aca7414e78a63d/ionic-3-google-plus-authentication-tutorial)
