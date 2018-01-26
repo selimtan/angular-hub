@@ -2,10 +2,30 @@
 Angular hub is a collection of articles, useful links, tutorials and videos about Angular. See also list with [topic title](./README.md) .
 
 ### 19 Dec, 2017
-* ![Tutorial](./tutorial.png)  [Angular - Shortcut to Importing Styles Files in Components(Caleb Oki)](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
+* ![Article](./Article.png)  [Angular - Shortcut to Importing Styles Files in Components(Caleb Oki)](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
 
 ### 27 Nov, 2017
-* ![Tutorial](./tutorial.png)  [Using Angular v4's New HTTP Client (Caleb Oki)](https://scotch.io/tutorials/using-angular-v4s-new-http-client)
+* ![Article](./Article.png)  [Using Angular v4's New HTTP Client (Caleb Oki)](https://scotch.io/tutorials/using-angular-v4s-new-http-client)
+
+### 30 Oct, 2017
+* ![Article](./Article.png)  [Reference Angular Imports Absolutely for Easier Development (Chris Sevilleja)](https://scotch.io/tutorials/reference-angular-imports-absolutely-for-easier-development)
+
+### 02 Oct, 2017
+* ![Article](./Article.png)  [Build an Animated Angular v2+ Dashboard (Tendai Mutunhire)](https://scotch.io/tutorials/build-an-animated-angular-v2-dashboard)
+
+### 25 Sep, 2017
+* ![Article](./Article.png)  [Create a Barebones Angular App with the --minimal Flag (Chris Sevilleja)](https://scotch.io/tutorials/create-a-barebones-angular-app-with-the-minimal-flag)
+
+### 18 Sep, 2017
+* ![Article](./Article.png)  [Handling Route Parameters in Angular v2+ (Chris Sevilleja)](https://scotch.io/tutorials/handling-route-parameters-in-angular-v2)
+* ![Article](./Article.png)  [Lazy Loading in Angular v2+ (Chris Sevilleja)](https://scotch.io/tutorials/lazy-loading-in-angular-v2)
+* ![Article](./Article.png)  [Protecting Angular v2+ Routes with CanActivate/CanActivateChild Guards (Chris Sevilleja)](https://scotch.io/tutorials/protecting-angular-v2-routes-with-canactivatecanactivatechild-guards)
+
+### 11 Sep, 2017
+* ![Article](./Article.png)  [Deploying an Angular CLI App to Production with Firebase (Chris Sevilleja)](https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase)
+
+### 04 Sep, 2017
+* ![Article](./Article.png)  [https://scotch.io/tutorials/build-a-status-update-app-w-reactions-using-angular-v4-and-firebase (Neo Ighodaro)](https://scotch.io/tutorials/build-a-status-update-app-w-reactions-using-angular-v4-and-firebase)
 
 ### 10 Jul, 2017
 * ![Article](./Article.png)  [The Angular HTTP Client - Quickstart Guide](http://blog.angular-university.io/angular-http/#.WWZFdiGud_g.twitter)
