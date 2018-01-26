@@ -1,6 +1,12 @@
 # Angular Hub
 Angular hub is a collection of articles, useful links, tutorials and videos about Angular. See also list with [topic title](./README.md) .
 
+### 19 Dec, 2017
+* ![Tutorial](./tutorial.png)  [Angular - Shortcut to Importing Styles Files in Components(Caleb Oki)](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
+
+### 27 Nov, 2017
+* ![Tutorial](./tutorial.png)  [Using Angular v4's New HTTP Client (Caleb Oki)](https://scotch.io/tutorials/using-angular-v4s-new-http-client)
+
 ### 10 Jul, 2017
 * ![Article](./Article.png)  [The Angular HTTP Client - Quickstart Guide](http://blog.angular-university.io/angular-http/#.WWZFdiGud_g.twitter)
 * ![Article](./Article.png)  [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
