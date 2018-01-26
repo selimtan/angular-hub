@@ -27,6 +27,9 @@ Angular hub is a collection of articles, useful links, tutorials and videos abou
 ### 04 Sep, 2017
 * ![Article](./Article.png)  [https://scotch.io/tutorials/build-a-status-update-app-w-reactions-using-angular-v4-and-firebase (Neo Ighodaro)](https://scotch.io/tutorials/build-a-status-update-app-w-reactions-using-angular-v4-and-firebase)
 
+### 14 Aug, 2017
+* ![Article](./Article.png)  [Build a Secure Notes Application with Kotlin, TypeScript, and Okta (Matt Raible)](https://scotch.io/tutorials/build-a-secure-notes-application-with-kotlin-typescript-and-okta)
+
 ### 10 Jul, 2017
 * ![Article](./Article.png)  [The Angular HTTP Client - Quickstart Guide](http://blog.angular-university.io/angular-http/#.WWZFdiGud_g.twitter)
 * ![Article](./Article.png)  [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
